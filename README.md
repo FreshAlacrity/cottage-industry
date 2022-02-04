@@ -55,6 +55,8 @@ Email: [inserviceofinsight@gmail.com](mailto:inserviceofinsight@gmail.com)
   - [Create's Current Compatibility Recipes](https://github.com/Creators-of-Create/Create/tree/mc1.18/dev/src/main/resources/data/create/recipes/compat)
 - Minecraft Datapacks
   - [Skylinerw's Guide to Loot Tables](https://github.com/skylinerw/guides/blob/master/java/loot%20tables.md)
+- Github
+  - [Syntax for .gitignore Files](https://www.atlassian.com/git/tutorials/saving-changes/gitignore#git-ignore-patterns)
 
 ## To Do List
 ### Big Deal Hopefully Soon Things
