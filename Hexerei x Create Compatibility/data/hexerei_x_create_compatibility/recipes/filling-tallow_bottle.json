@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "fluid": "hexerei:tallow_fluid",
+      "nbt": {},
+      "amount": 333
+    }
+  ],
+  "results": [
+    {
+      "item": "hexerei:tallow_bottle"
+    }
+  ]
+}

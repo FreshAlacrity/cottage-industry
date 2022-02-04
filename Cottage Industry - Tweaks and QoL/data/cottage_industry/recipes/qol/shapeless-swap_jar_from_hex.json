@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "hexerei:herb_jar"
+    },
+    {
+      "item": "hexerei:herb_jar"
+    },
+    {
+      "item": "hexerei:herb_jar"
+    },
+    {
+      "item": "hexerei:herb_jar"
+    },
+    {
+      "item": "supplementaries:soap"
+    },
+    {
+      "item": "hexerei:herb_jar"
+    },
+    {
+      "item": "hexerei:herb_jar"
+    },
+    {
+      "item": "hexerei:herb_jar"
+    },
+    {
+      "item": "hexerei:herb_jar"
+    }
+  ],
+  "result": {
+    "item": "supplementaries:jar",
+    "count": 8
+  }
+}

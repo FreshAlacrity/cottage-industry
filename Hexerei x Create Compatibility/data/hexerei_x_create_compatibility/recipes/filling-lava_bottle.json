@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "fluid": "minecraft:lava",
+      "nbt": {},
+      "amount": 333
+    }
+  ],
+  "results": [
+    {
+      "item": "hexerei:lava_bottle"
+    }
+  ]
+}
