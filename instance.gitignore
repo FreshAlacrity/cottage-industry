@@ -6,7 +6,5 @@
 /resourcepacks/
 /logs/
 /Xaero*
-global_packs/required_data/*.zip
-global_packs/optional_data/*.zip
 usercache.json
 usernamecache.json

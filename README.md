@@ -3,8 +3,10 @@
 
 Welcome to a kinder, gentler kind of Minecraft. Cottage Industry marries the cottage witchcraft of Hexerei with the aesthetic technology of Create to create a softer, more aesthetic survival experience. Right now it's pretty rough around the edges, but the goal is to make a pack suitable for casual survival building and landscaping while maintaining the chewy puzzle of how to automate a wide range of resources.
 
-The modpack that these datapacks are made for is available on CurseForge at https://www.curseforge.com/minecraft/modpacks/cottage-industry (however they should work on other servers which contain the same core mods; Hexerei, Create and Create Deco, Supplementaries, Quark and Quark Oddities, Bongo, and Farmer's Delight)
-  
+## Where to find Cottage Industry
+CurseForge at https://www.curseforge.com/minecraft/modpacks/cottage-industry 
+Github/Source at https://github.com/FreshAlacrity/cottage-industry
+Note: The datapacks included in the repository should in theory also work on other modpacks which contain the same core mods, those being Hexerei, Create and Create Deco, Supplementaries, Quark and Quark Oddities, Bongo, and Farmer's Delight
   
 ## Current Contact Info
 Discord: [Tea Witch (they/them)#6256](https://discordapp.com/users/Tea%20Witch%20(they/them)#6256)  
@@ -63,7 +65,9 @@ Email: [inserviceofinsight@gmail.com](mailto:inserviceofinsight@gmail.com)
 - Advancements for the various storage options available
 - Test the 1.18 Tinker's Construct Alpha!
 - Test the new Hexerei update (and update the pack files accordingly)
-- Instructions on where to find and how to apply optional datapacks for Stoneblock and Skyblock variations (with screenshots/maybe a video)
+- Instructions on where to find and how to apply optional datapacks for Stoneblock and Skyblock variations
+  - add screenshots/GIF/maybe a video
+  - server .jar versions for Stoneblock and Skyblock with the appropriate datapacks etc. set as required
 
 ### Dreaded But Important Things
 - Find the source inspiration for the Trident crafting recipe
