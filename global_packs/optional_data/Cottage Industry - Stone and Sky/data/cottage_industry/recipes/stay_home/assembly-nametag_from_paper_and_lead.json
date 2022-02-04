@@ -1,0 +1,35 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "minecraft:paper"
+  },
+  "transitionalItem": {
+    "item": "minecraft:name_tag"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecraft:paper"
+        },
+        {
+          "item": "minecraft:lead"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:name_tag"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:name_tag",
+      "count": 1,
+      "chance": 1
+    }
+  ],
+  "loops": 1
+}

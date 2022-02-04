@@ -1,0 +1,17 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+    	{
+    		"item": "minecraft:tall_grass"
+    	}
+    ], 
+	"results": [
+		{	"item": "minecraft:wheat",					 "count": 2, 	"chance": 0.2		},
+		{	"item": "hexerei:mugwort_bush",			 "count": 2, 	"chance": 0.1 	},
+		{	"item": "hexerei:yellow_dock_bush",	 "count": 1, 	"chance": 0.1	  },
+		{	"item": "minecraft:sugar_cane",	 		 "count": 1, 	"chance": 0.1 	},
+		{	"item": "minecraft:bamboo",					 "count": 1, 	"chance": 0.1 	},
+		{	"item": "supplementaries:wild_flax", "count": 1, 	"chance": 0.1 	},
+		{	"item": "minecraft:large_fern",	     "count": 1, 	"chance": 0.05	}
+	]
+}

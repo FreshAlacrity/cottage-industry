@@ -1,0 +1,35 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "minecraft:gravel"
+  },
+  "transitionalItem": {
+    "item": "minecraft:gravel"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecraft:gravel"
+        },
+        {
+          "tag": "cottage_industry:hoes"
+        }
+      ],
+      "results": [
+        {
+          "item": "supplementaries:raked_gravel"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "supplementaries:raked_gravel",
+      "count": 1,
+      "chance": 1
+    }
+  ],
+  "loops": 1
+}

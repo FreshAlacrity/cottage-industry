@@ -1,0 +1,21 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "hexerei:belladonna_berries"
+    },
+    {
+      "fluid": "create:potion",
+      "nbt": {
+        "Bottle": "REGULAR",
+        "Potion": "minecraft:leaping"
+      },
+      "amount": 50
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:spider_eye"
+    }
+  ]
+}

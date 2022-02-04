@@ -1,0 +1,38 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "create:refined_radiance"
+    },
+    {
+      "item": "create:refined_radiance"
+    },
+    {
+      "item": "create:refined_radiance"
+    },
+    {
+      "item": "create:refined_radiance"
+    },
+    {
+      "item": "create:refined_radiance"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "minecraft:diamond"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:nether_star"
+    }
+  ],
+  "heatRequirement": "superheated"
+}

@@ -1,0 +1,19 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+    	{
+    		"item": "minecraft:stone"
+    	}
+    ], 
+	"results": [
+		{	"item": "minecraft:coal_ore",	  		"count": 1, 	"chance": 0.01 		},
+		{	"item": "minecraft:copper_ore",	  	"count": 1, 	"chance": 0.005 	},
+		{	"item": "minecraft:iron_ore",	  		"count": 1, 	"chance": 0.005 	},
+		{	"item": "minecraft:gold_ore",	  		"count": 1, 	"chance": 0.003 	},
+		{	"item": "create:zinc_ore",	  			"count": 1, 	"chance": 0.003 	},
+		{	"item": "minecraft:redstone_ore",	 	"count": 1, 	"chance": 0.002 	},
+		{	"item": "minecraft:lapis_ore",		 	"count": 1, 	"chance": 0.002 	},
+		{	"item": "minecraft:diamond_ore",	 	"count": 1, 	"chance": 0.001 	},
+		{	"item": "minecraft:emerald_ore",	 	"count": 1, 	"chance": 0.0005	}
+	]
+}

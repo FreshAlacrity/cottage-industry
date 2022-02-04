@@ -1,0 +1,12 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+    	{
+    		"item": "create:limestone"
+    	}
+    ], 
+	"results": [
+		{	"item": "create:limestone",	  		"count": 1, 	"chance": 0.9 	},
+		{	"item": "minecraft:lapis_ore",	  "count": 1, 	"chance": 0.05 	}
+	]
+}

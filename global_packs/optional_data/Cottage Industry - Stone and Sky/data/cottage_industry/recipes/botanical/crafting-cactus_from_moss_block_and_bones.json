@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#b#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:bone"
+    },
+    "b": {
+      "item": "minecraft:moss_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:cactus"
+  }
+}

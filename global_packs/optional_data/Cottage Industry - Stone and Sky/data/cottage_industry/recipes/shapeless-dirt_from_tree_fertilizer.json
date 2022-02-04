@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:gravel"
+    },
+    {
+      "item": "create:tree_fertilizer"
+    }
+  ],
+  "result": {
+    "item": "minecraft:dirt"
+  }
+}

@@ -1,0 +1,34 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+    	[
+				{
+					"item": "quark:black_corundum_cluster"
+				},
+				{
+					"item": "quark:violet_corundum_cluster"
+				},
+				{
+					"item": "quark:indigo_corundum_cluster"
+				},
+				{
+					"item": "quark:blue_corundum_cluster"
+				},
+				{
+					"item": "quark:green_corundum_cluster"
+				},
+				{
+					"item": "quark:yellow_corundum_cluster"
+				},
+				{
+					"item": "quark:orange_corundum_cluster"
+				},
+				{
+					"item": "quark:red_corundum_cluster"
+				}
+			]
+    ], 
+	"results": [
+		{	"item": "quark:white_corundum_cluster",	  		"count": 1, 	"chance": 0.9 		}	                        
+	]
+}

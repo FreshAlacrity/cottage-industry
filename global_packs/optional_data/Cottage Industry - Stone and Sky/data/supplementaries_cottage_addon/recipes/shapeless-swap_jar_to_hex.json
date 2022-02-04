@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "supplementaries:jar"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "supplementaries:jar"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:slime_ball"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "supplementaries:jar"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "supplementaries:jar"
+    }
+  ],
+  "result": {
+    "item": "hexerei:herb_jar",
+    "count": 4
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "  s  ",
+    "sJPJs",
+    "sBCBs",
+    "sMFMs",
+    "sJRJs"
+  ],
+  "key": {
+    "J": {
+      "item": "minecraft:jigsaw"
+    },
+    "B": {
+      "item": "minecraft:bedrock"
+    },
+    "P": {
+      "item": "create:rotation_speed_controller"
+    },
+    "C": {
+      "item": "minecraft:end_crystal"
+    },
+    "R": {
+      "item": "minecraft:respawn_anchor"
+    },
+    "M": {
+      "item": "minecraft:magenta_wool"
+    },
+    "F": {
+      "item": "create:flywheel"
+    },
+    "s": {
+      "item": "create:shaft"
+    }
+  },
+  "result": {
+    "item": "create:creative_motor"
+  },
+  "acceptMirrored": true
+}

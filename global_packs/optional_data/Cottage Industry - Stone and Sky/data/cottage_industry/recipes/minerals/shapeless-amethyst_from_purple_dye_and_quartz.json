@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:quartz"
+    },
+    {
+       "tag": "forge:dyes/purple"
+    },
+    {
+       "tag": "forge:dyes/purple"
+    },
+    {
+       "tag": "forge:dyes/purple"
+    },
+    {
+       "tag": "forge:dyes/purple"
+    },
+    {
+       "tag": "forge:dyes/purple"
+    },
+    {
+       "tag": "forge:dyes/purple"
+    },
+    {
+       "tag": "forge:dyes/purple"
+    },
+    {
+       "tag": "forge:dyes/purple"
+    }
+  ],
+  "result": {
+    "item": "minecraft:amethyst_shard"
+  }
+}

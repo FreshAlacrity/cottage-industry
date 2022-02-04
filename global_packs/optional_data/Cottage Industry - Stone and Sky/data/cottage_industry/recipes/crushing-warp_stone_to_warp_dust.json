@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "waystones:warp_stone"
+    }
+  ],
+  "results": [
+    {
+      "item": "waystones:warp_dust",
+      "count": 12
+    }
+  ],
+  "processingTime": 150
+}

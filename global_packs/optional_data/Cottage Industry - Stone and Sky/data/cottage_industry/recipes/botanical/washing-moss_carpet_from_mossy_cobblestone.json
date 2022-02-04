@@ -1,0 +1,20 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+    	{
+    		"item": "minecraft:mossy_cobblestone"
+    	}
+    ], 
+	"results": [
+		{
+			"item": "minecraft:cobblestone",
+			"count": 1,
+			"chance": 0.7
+		},
+		{
+			"item": "minecraft:moss_carpet",
+			"count": 1,
+			"chance": 0.1
+		}
+	]
+}

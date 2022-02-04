@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#b#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:bone_meal"
+    },
+    "b": {
+      "item": "minecraft:sugar_cane"
+    }
+  },
+  "result": {
+    "item": "minecraft:bone"
+  }
+}

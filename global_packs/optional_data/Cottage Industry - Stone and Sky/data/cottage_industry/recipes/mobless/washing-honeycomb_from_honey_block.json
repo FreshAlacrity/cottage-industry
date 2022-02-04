@@ -1,0 +1,12 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+    	{
+    		"item": "minecraft:honey_block"
+    	}
+    ], 
+	"results": [
+		{	"item": "minecraft:honeycomb", 	"count": 3								 	},
+		{	"item": "minecraft:honeycomb",	"count": 3,  "chance": 0.6	}
+	]
+}

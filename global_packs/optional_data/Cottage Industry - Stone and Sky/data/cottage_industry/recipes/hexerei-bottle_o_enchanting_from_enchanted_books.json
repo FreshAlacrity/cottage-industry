@@ -1,0 +1,47 @@
+{
+  "type": "hexerei:mixingcauldron",
+  "liquid": {
+    "fluid": "minecraft:water"
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    [
+      { "item": "minecraft:enchanted_book" },
+      { "item": "quark:ancient_tome"       }
+    ],
+    [
+      { "item": "minecraft:enchanted_book" },
+      { "item": "quark:ancient_tome"       }
+    ],
+    [
+      { "item": "minecraft:enchanted_book" },
+      { "item": "quark:ancient_tome"       }
+    ],
+    [
+      { "item": "minecraft:enchanted_book" },
+      { "item": "quark:ancient_tome"     }
+    ],
+    [
+      { "item": "minecraft:enchanted_book" },
+      { "item": "quark:ancient_tome"     }
+    ],
+    [
+      { "item": "minecraft:enchanted_book" },
+      { "item": "quark:ancient_tome"     }
+    ],
+    [
+      { "item": "minecraft:enchanted_book" },
+      { "item": "quark:ancient_tome"     }
+    ]
+  ],
+  "output": {
+    "item": "minecraft:experience_bottle",
+    "count": 1
+  },
+  "liquidOutput": {
+    "fluid": "minecraft:water"
+  },
+  "fluidLevelsConsumed": 333
+}

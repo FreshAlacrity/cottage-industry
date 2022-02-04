@@ -1,0 +1,36 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    [
+      {
+      "tag": "cottage_industry:also_calcite"
+      },
+      {
+      "item": "minecraft:calcite"
+      }
+    ],
+    {
+      "item": "minecraft:sand"
+    },
+    {
+      "item": "minecraft:sand"
+    },
+    {
+      "item": "minecraft:sand"
+    },
+    {
+      "item": "create:powdered_obsidian"
+    },
+    {
+      "fluid": "minecraft:milk",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:end_stone",
+      "count": 4
+    }
+  ],
+  "heatRequirement": "heated"
+}

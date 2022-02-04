@@ -1,0 +1,22 @@
+{
+  "type": "hexerei:dipper",
+  "liquid": {
+    "fluid": "create:potion",
+    "nbt": {
+      "Bottle": "REGULAR",
+      "Potion": "minecraft:leaping"
+    }
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:red_mushroom"
+    }
+  ],
+  "output": {
+    "item": "minecraft:spider_eye"
+  },
+  "fluidLevelsConsumed": 50,
+  "dippingTimeInTicks": 500,
+  "dryingTimeInTicks": 100,
+  "numberOfDips": 1
+}

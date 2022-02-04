@@ -1,0 +1,19 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+    	{
+    		"item": "minecraft:rooted_dirt"
+    	}
+    ], 
+	"results": [
+		{			"item": "minecraft:hanging_roots",		  "chance": 0.2 	},
+		{			"item": "minecraft:potato",							"chance": 0.1		},
+		{			"item": "minecraft:carrot",							"chance": 0.1		},
+		{			"item": "minecraft:beetroot",						"chance": 0.1		},
+		{			"item": "minecraft:brown_mushroom",			"chance": 0.1		},
+		{			"item": "minecraft:red_mushroom",				"chance": 0.05	},
+		{			"item": "minecraft:crimson_roots",			"chance": 0.02	},
+		{			"item": "minecraft:warped_roots",				"chance": 0.02	},
+		{			"item": "hexerei:mandrake_root",				"chance": 0.01	}
+	]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+			"tag": "quark:runes"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:experience_nugget",
+      "count": 3
+    }
+  ],
+  "processingTime": 250
+}

@@ -1,0 +1,21 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:quartz"
+    },
+    {
+      "item": "minecraft:flint"
+    },
+    {
+      "item": "minecraft:flint"
+    }
+  ],
+  "results": [
+    {
+      "item": "quark:black_corundum_cluster",
+      "count": 2
+    }
+  ],
+  "heatRequirement": "heated"
+}

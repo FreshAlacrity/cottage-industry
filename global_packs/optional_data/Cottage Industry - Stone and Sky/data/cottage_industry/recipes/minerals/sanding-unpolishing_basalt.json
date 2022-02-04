@@ -1,0 +1,17 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [
+    [
+      {
+        "item": "minecraft:polished_basalt"
+      },{
+        "item": "minecraft:smooth_basalt"
+      }
+    ]
+  ],
+  "results": [
+    {
+      "item": "minecraft:basalt"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "type": "hexerei:pestle_and_mortar",
+  "ingredients": [
+    {
+      "item": "minecraft:basalt"
+    },
+    {
+      "item": "minecraft:red_sand"
+    },
+    {
+      "item": "hexerei:quicksilver_bottle"
+    },
+    {
+      "item": "minecraft:red_sand"
+    },
+    {
+      "item": "minecraft:basalt"
+    }
+  ],
+  "output": {
+    "item": "create:cinder_flour",
+    "count": 4
+  },
+  "grindingTime": 1000
+}

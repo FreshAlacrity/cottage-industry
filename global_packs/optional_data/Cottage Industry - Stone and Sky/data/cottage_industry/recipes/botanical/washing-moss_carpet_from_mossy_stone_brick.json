@@ -1,0 +1,20 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+    	{
+    		"item": "minecraft:mossy_stone_bricks"
+    	}
+    ], 
+	"results": [
+		{
+			"item": "minecraft:stone_bricks",
+			"count": 1,
+			"chance": 0.9
+		},
+		{
+			"item": "minecraft:moss_carpet",
+			"count": 1,
+			"chance": 0.2
+		}
+	]
+}

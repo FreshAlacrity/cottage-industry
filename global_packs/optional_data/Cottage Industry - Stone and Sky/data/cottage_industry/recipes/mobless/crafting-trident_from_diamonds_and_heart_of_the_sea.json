@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " dd",
+        " hd",
+        "s  "
+    ],
+    "key": {
+        "s": {
+            "item": "minecraft:prismarine_shard"
+        },
+        "h": {
+            "item": "minecraft:heart_of_the_sea"
+        },
+        "d": {
+            "item": "minecraft:diamond"
+        }
+    },
+    "result": {
+        "item": "minecraft:trident",
+        "count": 1
+    }
+}

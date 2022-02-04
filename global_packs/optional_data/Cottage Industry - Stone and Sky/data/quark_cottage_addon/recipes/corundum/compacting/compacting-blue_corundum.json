@@ -1,0 +1,38 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "quark:blue_corundum_cluster"
+    },
+    {
+      "item": "quark:blue_corundum_cluster"
+    },
+    {
+      "item": "quark:blue_corundum_cluster"
+    },
+    {
+      "item": "quark:blue_corundum_cluster"
+    },
+    {
+      "item": "quark:blue_corundum_cluster"
+    },
+    {
+      "item": "quark:blue_corundum_cluster"
+    },
+    {
+      "item": "quark:blue_corundum_cluster"
+    },
+    {
+      "item": "quark:blue_corundum_cluster"
+    },
+    {
+      "item": "quark:blue_corundum_cluster"
+    }
+  ],
+  "results": [
+    {
+      "item": "quark:blue_corundum",
+      "count": 1
+    }
+  ]
+}

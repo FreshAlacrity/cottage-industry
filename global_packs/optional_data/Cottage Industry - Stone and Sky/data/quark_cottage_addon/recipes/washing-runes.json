@@ -1,0 +1,11 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+				{
+					"tag": "quark:runes"
+				}
+    ], 
+	"results": [
+		{	"item": "quark:blank_rune"	}	                        
+	]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:basalt"
+    },
+    {
+      "item": "minecraft:basalt"
+    },
+    {
+      "item": "minecraft:red_sand"
+    },
+    {
+      "item": "minecraft:red_sand"
+    },
+    {
+      "fluid": "hexerei:quicksilver_fluid",
+      "amount": 125
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:netherrack",
+      "count": 4
+    }
+  ]
+}

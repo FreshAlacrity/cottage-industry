@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#b#",
+    " # "
+  ],
+  "key": {
+    "b": {
+      "item": "minecraft:bedrock"
+    },
+    "#": {
+      "item": "waystones:warp_dust"
+    }
+  },
+  "result": {
+    "item": "minecraft:jigsaw"
+  }
+}

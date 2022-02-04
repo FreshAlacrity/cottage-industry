@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#b#",
+    "###"
+  ],
+  "key": {
+    "b": {
+      "tag": "cottage_industry:mycelium_substrate"
+    },
+    "#": [
+      {
+      "item": "minecraft:brown_mushroom"
+      },
+      {
+      "item": "minecraft:red_mushroom"
+      }
+    ]
+  },
+  "result": {
+    "item": "minecraft:mycelium"
+  }
+}

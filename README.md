@@ -11,6 +11,14 @@ Discord: [Tea Witch (they/them)#6256](https://discordapp.com/users/Tea%20Witch%2
 Email: [inserviceofinsight@gmail.com](mailto:inserviceofinsight@gmail.com)
 
 ## Changelog
+- February 4, 2022
+  - added required datapacks
+    - Asteroid Dimension
+  - added optional datapacks
+    - Boss Bar Pomodoro
+    - Cottage Industry: Stone and Sky
+  - change to folder structure for better ongoing compatibility with the [Global Data- & Resourcepacks mod](https://www.curseforge.com/minecraft/mc-mods/drp-global-datapack)
+  - changed item references in the Decorative End Portal datapack to use item ID rather than name (to hopefully head off any issues for folks playing in other languages)
 - February 3, 2022
   - added intro videos for Create and Hexerei to [the pack's CurseForge page](https://www.curseforge.com/minecraft/modpacks/cottage-industry)
   - updated the pack description's section on starter tips to reflect the new Dowsing Rod from Hexerei
@@ -48,6 +56,7 @@ Email: [inserviceofinsight@gmail.com](mailto:inserviceofinsight@gmail.com)
 - Test the new Hexerei update (and update the pack files accordingly)
 
 ### Dreaded But Important Things
+- Find the source inspiration for the Trident crafting recipe
 - Polishing up the planning spreadsheet
   - Split off the sheets for side projects like spawn egg recipes for Hexerei
   - Making that public
@@ -55,7 +64,18 @@ Email: [inserviceofinsight@gmail.com](mailto:inserviceofinsight@gmail.com)
 - Continue moving todos etc. from personal notes to here
   - Consider what should be moved here from the spreadsheet or vice versa
 - Server testing!
-  - add a chunk pregeneration mod for this, ask around in the Hexerei discord etc if folks have mods they recommend/find quite handy for server admin
+  - [Tutorial from the Minecraft wiki](https://minecraft.fandom.com/wiki/Tutorials/Setting_up_a_Minecraft_Forge_server)
+  - Mods to consider adding at that point:
+    - Find My Friends
+    - Actually Compatible
+    - Chunky Pregenerator
+    - Dimension Access Manager
+    - AdvancementSync
+    - [Craftable Deeds](https://www.curseforge.com/minecraft/mc-mods/craftable-deeds)
+    - [DataFixerSlayer](https://www.curseforge.com/minecraft/mc-mods/datafixerslayer)
+    - [FastWorkbench Minus Replacement](https://www.curseforge.com/minecraft/mc-mods/fastworkbench-minus-replacement)
+      - currently only updated to 1.16.5 - look for an alternative?
+
 
 ### Tweaks and QoL
 - Add some of the Minecraft commands I find super handy to the resources section
@@ -75,8 +95,9 @@ Email: [inserviceofinsight@gmail.com](mailto:inserviceofinsight@gmail.com)
   - Make an Automation focused Bongo that wants large quantities of things that can be fully automated
 - Make the modlist prettier and add donation and Discord links where available
 
-### Maybe Someday Things
-- New pack icon
+### Hopefully Someday Things
+- New pack icon/logo
+  - Wrench and (Mahogany) Broomstick?
 - Add Willow and Mahogany options for Macaw's Bridges
   - see [examples here](https://github.com/Samlegamer/Macaw-s-Bridges-Compat)
 - Figure out if there's a way to submit the filling + emptying recipes for Hexerei compatiblity to go into [Create's comptability recipes](https://github.com/Creators-of-Create/Create/tree/mc1.18/dev/src/main/resources/data/create/recipes/compat)
@@ -84,6 +105,7 @@ Email: [inserviceofinsight@gmail.com](mailto:inserviceofinsight@gmail.com)
 - Custom dimensions (Asteroids and the Deeps) if including [Falling Through](https://www.curseforge.com/minecraft/mc-mods/falling-through)
 - Pack specific textures in a dedicated resource pack
 - Stoneblock/Skyblock map types and recipes
+  - See if @Malthe0503 from the Create Discord has posted a fancy illustrated flowchart of what can already be made with cobblestone using Create
 - Find a way to remove certain blocks from JEI (or possibly rename them)
   - e.x. Quark's Chute since it more or less duplicates Create's Chute (similarly, Limestone)
 - Testing Optifine and complimentary shaders with the pack (the major issues should have been fixed!)
@@ -100,13 +122,15 @@ Email: [inserviceofinsight@gmail.com](mailto:inserviceofinsight@gmail.com)
   - [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli)
     - could use this to add a detailed illustrated guidebook for the pack
     - [Patchouli Documentation](https://vazkiimods.github.io/Patchouli/docs/intro)
-    - "Despite being in the Data folder, you can not currently load Patchouli Books using a Data Pack.
-However, there is a patchouli_books folder in the modpack's root folder for modpack added books. It will appear and use the patchouli namespace."
+    - "Despite being in the Data folder, you can not currently load Patchouli Books using a Data Pack. However, there is a patchouli_books folder in the modpack's root folder for modpack added books. It will appear and use the patchouli namespace."
   - [TelePastries](https://www.curseforge.com/minecraft/mc-mods/telepastries)
   - [Cycle Paintings by Serilum](https://www.curseforge.com/minecraft/mc-mods/cycle-paintings)
   - [Absent by Design](https://www.curseforge.com/minecraft/mc-mods/absent-by-design)
     - adds a bunch of things that would probably need to be tagged for recycling
   - [Wooden Hopper](https://www.curseforge.com/minecraft/mc-mods/wooden-hopper)
+  - [Air Hop](https://www.curseforge.com/minecraft/mc-mods/air-hop)
+  - [Pollution Of The Realms](https://www.curseforge.com/minecraft/mc-mods/pollution-of-the-realms)
+  - [Gauges and Switches](https://www.curseforge.com/minecraft/mc-mods/redstone-gauges-and-switches)
 - Mods to find/discover/create
   - A 'pokedex' of all JEI items with stats for percent held/submitted and option to set a number of them to have held/submitted
 

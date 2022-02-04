@@ -1,0 +1,13 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+    	{
+    		"item": "minecraft:glow_berries"
+    	}
+    ], 
+	"results": [
+		{	"item": "minecraft:hanging_roots",	  		"count": 1, 	"chance": 0.2 	},
+		{	"item": "minecraft:glow_lichen",		    	"count": 2, 	"chance": 0.1 	},
+		{	"item": "minecraft:spore_blossom",	     	"count": 1, 	"chance": 0.02	}
+	]
+}

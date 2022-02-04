@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bone"
+    },
+    {
+       "item": "minecraft:pumpkin_seeds"
+    },
+    {
+       "item": "minecraft:beetroot"
+    },
+    {
+       "item": "minecraft:brown_mushroom"
+    }
+  ],
+  "result": {
+    "item": "minecraft:beef",
+    "count": 2
+  }
+}

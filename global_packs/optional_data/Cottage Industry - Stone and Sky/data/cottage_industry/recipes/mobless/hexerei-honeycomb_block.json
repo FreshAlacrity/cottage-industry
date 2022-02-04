@@ -1,0 +1,40 @@
+{
+  "type": "hexerei:mixingcauldron",
+  "liquid": {
+    "fluid": "create:honey"
+  },
+  "ingredients": [
+    {
+      "tag": "cottage_industry:contains_wax"
+    },
+    {
+      "tag": "cottage_industry:contains_wax"
+    },
+    {
+      "tag": "cottage_industry:contains_wax"
+    },
+    {
+      "tag": "cottage_industry:contains_wax"
+    },
+    {
+      "tag": "cottage_industry:contains_wax"
+    },
+    {
+      "tag": "cottage_industry:contains_wax"
+    },
+    {
+      "tag": "cottage_industry:contains_wax"
+    },
+    {
+      "tag": "cottage_industry:contains_wax"
+    }
+  ],
+  "output": {
+    "item": "minecraft:honeycomb_block",
+    "count": 1
+  },
+  "liquidOutput": {
+    "fluid": "create:honey"
+  },
+  "fluidLevelsConsumed": 1000
+}

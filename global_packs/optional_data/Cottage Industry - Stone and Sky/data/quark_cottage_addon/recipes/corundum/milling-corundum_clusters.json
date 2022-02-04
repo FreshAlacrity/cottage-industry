@@ -1,0 +1,41 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    [
+      {
+        "item": "quark:black_corundum_cluster"
+      },
+      {
+        "item": "quark:violet_corundum_cluster"
+      },
+      {
+        "item": "quark:indigo_corundum_cluster"
+      },
+      {
+        "item": "quark:blue_corundum_cluster"
+      },
+      {
+        "item": "quark:green_corundum_cluster"
+      },
+      {
+        "item": "quark:yellow_corundum_cluster"
+      },
+      {
+        "item": "quark:orange_corundum_cluster"
+      },
+      {
+        "item": "quark:red_corundum_cluster"
+      },
+      {
+        "item": "quark:white_corundum_cluster"
+      }
+    ]
+  ],
+  "results": [
+    {
+      "item": "create:crushed_aluminum_ore",
+      "chance": 0.7
+    }
+  ],
+  "processingTime": 200
+}

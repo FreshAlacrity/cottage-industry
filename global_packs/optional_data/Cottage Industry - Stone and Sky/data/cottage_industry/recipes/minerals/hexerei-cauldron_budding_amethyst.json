@@ -1,0 +1,39 @@
+{
+  "type": "hexerei:mixingcauldron",
+  "liquid": {
+    "fluid": "hexerei:quicksilver_fluid"
+  },
+  "ingredients": [
+    {
+      "item": "create:experience_nugget"
+    },
+    {
+      "tag": "forge:dyes/purple"
+    },
+    {
+      "item": "minecraft:quartz"
+    },
+    {
+      "tag": "forge:dyes/purple"
+    },
+    {
+      "item": "minecraft:quartz_block"
+    },
+    {
+      "tag": "forge:dyes/purple"
+    },
+    {
+      "item": "minecraft:quartz"
+    },
+    {
+      "tag": "forge:dyes/purple"
+    }
+  ],
+  "output": {
+    "item": "minecraft:budding_amethyst"
+  },
+  "liquidOutput": {
+    "fluid": "hexerei:quicksilver_fluid"
+  },
+  "fluidLevelsConsumed": 666
+}

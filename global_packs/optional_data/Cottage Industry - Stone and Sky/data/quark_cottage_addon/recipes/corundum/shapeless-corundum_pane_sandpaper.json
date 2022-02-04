@@ -1,0 +1,50 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+		[
+			{
+				"item": "quark:black_corundum_pane"
+			},
+			{
+				"item": "quark:violet_corundum_pane"
+			},
+			{
+				"item": "quark:indigo_corundum_pane"
+			},
+			{
+				"item": "quark:blue_corundum_pane"
+			},
+			{
+				"item": "quark:green_corundum_pane"
+			},
+			{
+				"item": "quark:yellow_corundum_pane"
+			},
+			{
+				"item": "quark:orange_corundum_pane"
+			},
+			{
+				"item": "quark:red_corundum_pane"
+			},
+			{
+				"item": "quark:white_corundum_pane"
+			}
+		],
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    }
+  ],
+  "result": {
+    "item": "create:sand_paper",
+    "count": 4
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "type": "hexerei:mixingcauldron",
+  "liquid": {
+    "fluid": "minecraft:milk"
+  },
+  "ingredients": [
+    {
+      "item": "create:experience_nugget"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "hexerei:selenite_shard"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "hexerei:selenite_block"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "hexerei:selenite_shard"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    }
+  ],
+  "output": {
+    "item": "hexerei:budding_selenite"
+  },
+  "liquidOutput": {
+    "fluid": "minecraft:milk"
+  },
+  "fluidLevelsConsumed": 666
+}

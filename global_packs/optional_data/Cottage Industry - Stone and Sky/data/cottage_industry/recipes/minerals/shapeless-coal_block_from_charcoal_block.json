@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "quark:charcoal_block"
+    },
+    {
+      "item": "create:experience_nugget"
+    }
+  ],
+  "result": {
+    "item": "minecraft:coal_block"
+  }
+}

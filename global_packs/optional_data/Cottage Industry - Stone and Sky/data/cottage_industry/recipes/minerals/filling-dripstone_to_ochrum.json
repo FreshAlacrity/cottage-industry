@@ -1,0 +1,17 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "minecraft:dripstone"
+    },
+    {
+      "fluid": "minecraft:honey",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "create:ochrum"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "create:experience_nugget"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "sophisticatedbackpacks:xp_still",
+      "amount": 60
+    }
+  ],
+  "heatRequirement": "superheated"
+}

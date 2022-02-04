@@ -1,0 +1,1 @@
+#say Asteroid Dimension datapack loaded!

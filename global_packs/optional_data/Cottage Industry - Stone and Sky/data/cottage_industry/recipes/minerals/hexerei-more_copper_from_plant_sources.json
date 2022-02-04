@@ -1,0 +1,39 @@
+{
+  "type": "hexerei:mixingcauldron",
+  "liquid": {
+    "fluid": "minecraft:water"
+  },
+  "ingredients": [
+    {
+      "tag": "cottage_industry:contains_more_copper"
+    },
+    {
+      "tag": "cottage_industry:contains_more_copper"
+    },
+    {
+      "tag": "cottage_industry:contains_more_copper"
+    },
+    {
+      "tag": "cottage_industry:contains_more_copper"
+    },
+    {
+      "tag": "cottage_industry:contains_more_copper"
+    },
+    {
+      "tag": "cottage_industry:contains_more_copper"
+    },
+    {
+      "tag": "cottage_industry:contains_more_copper"
+    },
+    {
+      "tag": "cottage_industry:contains_more_copper"
+    }
+  ],
+  "output": {
+    "item": "create:crushed_copper_ore"
+  },
+  "liquidOutput": {
+    "fluid": "hexerei:blood_fluid"
+  },
+  "fluidLevelsConsumed": 1000
+}

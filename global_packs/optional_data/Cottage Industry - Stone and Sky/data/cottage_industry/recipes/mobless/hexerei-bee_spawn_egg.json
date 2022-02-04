@@ -1,0 +1,40 @@
+{
+  "type": "hexerei:mixingcauldron",
+  "liquid": {
+    "fluid": "create:honey"
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:experience_bottle"
+    },
+    {
+      "tag": "minecraft:flowers"
+    },
+    {
+      "item": "minecraft:honeycomb"
+    },
+    {
+      "tag": "minecraft:flowers"
+    },
+    {
+      "item": "minecraft:honeycomb"
+    },
+    {
+      "tag": "minecraft:flowers"
+    },
+    {
+      "item": "minecraft:honeycomb"
+    },
+    {
+      "tag": "minecraft:flowers"
+    }
+  ],
+  "output": {
+    "item": "minecraft:bee_spawn_egg",
+    "count": 1
+  },
+  "liquidOutput": {
+    "fluid": "create:honey"
+  },
+  "fluidLevelsConsumed": 250
+}

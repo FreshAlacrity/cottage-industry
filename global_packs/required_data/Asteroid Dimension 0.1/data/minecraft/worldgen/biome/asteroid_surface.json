@@ -1,0 +1,86 @@
+{
+  "effects": {
+    "mood_sound": {
+      "sound": "minecraft:ambient.cave",
+      "tick_delay": 6000,
+      "block_search_extent": 8,
+      "offset": 8.0
+    },
+    "additions_sound": {
+      "sound": "minecraft:ambient.warped_forest.additions",
+      "tick_chance": 0.0111
+    },
+    "music": {
+      "sound": "minecraft:music.nether.warped_forest",
+      "min_delay": 12000,
+      "max_delay": 24000,
+      "replace_current_music": false
+    },
+    "particle": {
+      "options": {
+        "type": "minecraft:mycelium"
+      },
+      "probability": 0.005
+    },
+    "ambient_sound": "minecraft:ambient.warped_forest.loop",
+    "sky_color": 7254527,
+    "fog_color": 1705242,
+    "water_color": 4159204,
+    "water_fog_color": 329011
+  },
+  "carvers": {
+  },
+  "features": [
+    [],
+    [],
+    [
+      "minecraft:amethyst_geode"
+    ],
+    [],
+    [],
+    [],
+    [
+      "minecraft:glowstone_extra",
+      "minecraft:glowstone"
+    ],
+    [],
+    [],
+    [
+      "minecraft:glow_lichen"
+    ],
+    []
+  ],
+  "spawners": {
+    "monster":  [
+      {
+        "type": "minecraft:enderman",
+        "weight": 1,
+        "minCount": 4,
+        "maxCount": 4
+      }
+    ],
+    "creature": [],
+    "axolotls": [],
+    "underground_water_creature": [
+      {
+        "type": "minecraft:glow_squid",
+        "weight": 10,
+        "minCount": 2,
+        "maxCount": 4
+      }
+    ],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": []
+  },
+  "spawn_costs": {
+    "minecraft:enderman": {
+      "energy_budget": 0.12,
+      "charge": 1.0
+    }
+  },
+  "precipitation": "snow",
+  "temperature": 0.7,
+  "downfall": 0.8,
+  "category": "mushroom"
+}

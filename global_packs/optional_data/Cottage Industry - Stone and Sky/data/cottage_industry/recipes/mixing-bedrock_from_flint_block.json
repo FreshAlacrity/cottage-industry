@@ -1,0 +1,38 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "supplementaries:flint_block"
+    },
+    {
+      "item": "supplementaries:flint_block"
+    },
+    {
+      "item": "supplementaries:flint_block"
+    },
+    {
+      "item": "supplementaries:flint_block"
+    },
+    {
+      "item": "supplementaries:flint_block"
+    },
+    {
+      "item": "supplementaries:flint_block"
+    },
+    {
+      "item": "supplementaries:flint_block"
+    },
+    {
+      "item": "supplementaries:flint_block"
+    },
+    {
+      "item": "supplementaries:flint_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:bedrock"
+    }
+  ],
+  "heatRequirement": "superheated"
+}

@@ -1,0 +1,40 @@
+{
+  "type": "hexerei:mixingcauldron",
+  "liquid": {
+    "fluid": "create:honey"
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:honeycomb"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:honeycomb"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:honeycomb"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:honeycomb"
+    },
+    {
+      "item": "minecraft:paper"
+    }
+  ],
+  "output": {
+    "item": "minecraft:bee_nest",
+    "count": 1
+  },
+  "liquidOutput": {
+    "fluid": "create:honey"
+  },
+  "fluidLevelsConsumed": 1000
+}

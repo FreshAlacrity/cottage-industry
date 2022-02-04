@@ -1,0 +1,35 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "cottage_industry:contains_wax"
+    },
+    {
+      "tag": "cottage_industry:contains_wax"
+    },
+    {
+      "tag": "cottage_industry:contains_wax"
+    },
+    {
+      "tag": "cottage_industry:contains_wax"
+    },
+    {
+      "tag": "cottage_industry:contains_wax"
+    },
+    {
+      "tag": "cottage_industry:contains_wax"
+    },
+    {
+      "tag": "cottage_industry:contains_wax"
+    },
+    {
+      "tag": "cottage_industry:contains_wax"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "hexerei:tallow_fluid",
+      "amount": 333
+    }
+  ]
+}

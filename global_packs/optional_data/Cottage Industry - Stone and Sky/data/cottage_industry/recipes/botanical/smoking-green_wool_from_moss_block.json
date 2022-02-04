@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "minecraft:moss_block"
+  },
+  "result": "minecraft:green_wool",
+  "experience": 1,
+  "cookingtime": 1000
+}

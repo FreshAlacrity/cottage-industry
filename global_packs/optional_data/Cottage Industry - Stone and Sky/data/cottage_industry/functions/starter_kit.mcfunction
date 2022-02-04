@@ -1,0 +1,1 @@
+give @p[limit=1,sort=nearest] create:brown_toolbox{Inventory:{Items: [{Slot: 4, id: 'create:wrench', Count: 1b},{Slot: 8, id: 'create:tree_fertilizer', Count: 1b},{Slot: 12, id: 'minecraft:oak_sapling', Count: 2b},{Slot: 16, id: 'minecraft:dirt', Count: 3b}]}}

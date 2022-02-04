@@ -1,0 +1,12 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+    	{
+    		"item": "waterstrainer:fertilizer"
+    	}
+    ], 
+	"results": [
+		{	"item": "minecraft:bone_meal", 		   "chance": 0.9	  },
+		{	"item": "waterstrainer:super_worm",	 "chance": 0.002 	}
+	]
+}

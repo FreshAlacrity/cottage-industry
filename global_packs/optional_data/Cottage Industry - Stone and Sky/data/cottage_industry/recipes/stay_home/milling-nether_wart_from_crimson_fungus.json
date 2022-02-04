@@ -1,0 +1,23 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:crimson_fungus"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:red_dye",
+      "chance": 0.4
+    },
+    {
+      "item": "minecraft:orange_dye",
+      "chance": 0.1
+    },
+    {
+      "item": "minecraft:nether_wart",
+      "chance": 0.1
+    }
+  ],
+  "processingTime": 100
+}

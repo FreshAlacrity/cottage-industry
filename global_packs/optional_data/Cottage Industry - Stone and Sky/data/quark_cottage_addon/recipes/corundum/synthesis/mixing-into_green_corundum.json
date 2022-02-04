@@ -1,0 +1,23 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "create:crushed_aluminum_ore"
+    },
+    [
+      {
+        "tag": "forge:dyes/lime"
+      },
+      {
+        "tag": "forge:dyes/green"
+      }
+    ]
+  ],
+  "results": [
+    {
+      "item": "quark:green_corundum_cluster",
+      "count": 1
+    }
+  ],
+  "heatRequirement": "superheated"
+}

@@ -1,0 +1,18 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "create:crushed_aluminum_ore"
+    },
+    {
+      "tag": "forge:dyes/yellow"
+    }
+  ],
+  "results": [
+    {
+      "item": "quark:yellow_corundum_cluster",
+      "count": 1
+    }
+  ],
+  "heatRequirement": "superheated"
+}
