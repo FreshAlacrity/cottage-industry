@@ -10,6 +10,13 @@ The modpack that these datapacks are made for is available on CurseForge at http
 Discord: [Tea Witch (they/them)#6256](https://discordapp.com/users/Tea%20Witch%20(they/them)#6256)  
 Email: [inserviceofinsight@gmail.com](mailto:inserviceofinsight@gmail.com)
 
+## Changelog
+- February 3, 2022
+  - added intro videos for Create and Hexerei to [the pack's CurseForge page](https://www.curseforge.com/minecraft/modpacks/cottage-industry)
+  - updated the pack description's section on starter tips to reflect the new Dowsing Rod from Hexerei
+  - added this new readme document and moved a bunch of To Do items and notes here
+  - started up the GitHub repository!
+
 ## Guiding Principles
 - Aesthetics
   - mods that look great and look great together
@@ -18,7 +25,7 @@ Email: [inserviceofinsight@gmail.com](mailto:inserviceofinsight@gmail.com)
 - Coziness
   - [See the Cozy Game Design Manifesto](https://lostgarden.home.blog/2018/01/24/cozy-games/)
 
-### General Design Choices
+## General Design Choices
 - building on familiarity
   - adding new recipes etc. to help mods work together better (instead of taking away recipes that people already know)
   - encouraging use of interesting and perhaps little-known vanilla mechanics, where available
@@ -65,6 +72,8 @@ Email: [inserviceofinsight@gmail.com](mailto:inserviceofinsight@gmail.com)
 
 ### Maybe Someday Things
 - New pack icon
+- Add Willow and Mahogany options for Macaw's Bridges
+  - see [examples here](https://github.com/Samlegamer/Macaw-s-Bridges-Compat)
 - Figure out if there's a way to submit the filling + emptying recipes for Hexerei compatiblity to go into [Create's comptability recipes](https://github.com/Creators-of-Create/Create/tree/mc1.18/dev/src/main/resources/data/create/recipes/compat)
 - Long term goal: a way to recycle every item into something else
 - Custom dimensions (Asteroids and the Deeps) if including [Falling Through](https://www.curseforge.com/minecraft/mc-mods/falling-through)
@@ -89,6 +98,7 @@ Email: [inserviceofinsight@gmail.com](mailto:inserviceofinsight@gmail.com)
     - "Despite being in the Data folder, you can not currently load Patchouli Books using a Data Pack.
 However, there is a patchouli_books folder in the modpack's root folder for modpack added books. It will appear and use the patchouli namespace."
   - [TelePastries](https://www.curseforge.com/minecraft/mc-mods/telepastries)
+  - [Cycle Paintings by Serilum](https://www.curseforge.com/minecraft/mc-mods/cycle-paintings)
 - Mods to find/discover/create
   - A 'pokedex' of all JEI items with stats for percent held/submitted and option to set a number of them to have held/submitted
 
