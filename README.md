@@ -10,21 +10,6 @@ The modpack that these datapacks are made for is available on CurseForge at http
 Discord: [Tea Witch (they/them)#6256](https://discordapp.com/users/Tea%20Witch%20(they/them)#6256)  
 Email: [inserviceofinsight@gmail.com](mailto:inserviceofinsight@gmail.com)
 
-## Changelog
-- February 4, 2022
-  - added required datapacks
-    - Asteroid Dimension
-  - added optional datapacks
-    - Boss Bar Pomodoro
-    - Cottage Industry: Stone and Sky
-  - change to folder structure for better ongoing compatibility with the [Global Data- & Resourcepacks mod](https://www.curseforge.com/minecraft/mc-mods/drp-global-datapack)
-  - changed item references in the Decorative End Portal datapack to use item ID rather than name (to hopefully head off any issues for folks playing in other languages)
-- February 3, 2022
-  - added intro videos for Create and Hexerei to [the pack's CurseForge page](https://www.curseforge.com/minecraft/modpacks/cottage-industry)
-  - updated the pack description's section on starter tips to reflect the new Dowsing Rod from Hexerei
-  - added this new readme document and moved a bunch of To Do items and notes here
-  - started up the GitHub repository!
-
 ## Guiding Principles
 - Aesthetics
   - mods that look great and look great together
@@ -43,24 +28,51 @@ Email: [inserviceofinsight@gmail.com](mailto:inserviceofinsight@gmail.com)
 - prioritizing nonviolence
   - focusing quality of life improvements on peaceful activities
 
+## Changelog
+- February 4, 2022
+  - made a list of included and currently being considered mods/datapacks in the spreadsheet
+  - budding amethyst and budding selenite have new drop tables (based off vanilla coal ore and glass) where they'll drop blocks of the material with a regular pick and the budding versions with a silk touch pick
+  - added required datapacks
+    - Asteroid Dimension
+  - added optional datapacks
+    - Boss Bar Pomodoro
+    - Cottage Industry: Stone and Sky
+  - change to folder structure for better ongoing compatibility with the [Global Data- & Resourcepacks mod](https://www.curseforge.com/minecraft/mc-mods/drp-global-datapack)
+  - changed item references in the Decorative End Portal datapack to use item ID rather than name (to hopefully head off any issues for folks playing in other languages)
+- February 3, 2022
+  - added intro videos for Create and Hexerei to [the pack's CurseForge page](https://www.curseforge.com/minecraft/modpacks/cottage-industry)
+  - updated the pack description's section on starter tips to reflect the new Dowsing Rod from Hexerei
+  - added this new readme document and moved a bunch of To Do items and notes here
+  - started up the GitHub repository!
+
+## Known Issues
+- Weather in custom dimensions can't be cleared with commands
+
 ## Recommended Resources for Contributing/Similar Projects
 - Create
   - [Create's Guide on Adding Custom Recipes with Data Packs](https://github.com/Creators-of-Create/Create/wiki/Custom-Recipes)
   - [Create's Existing Recipes](https://github.com/Creators-of-Create/Create/tree/mc1.18/dev/src/generated/resources/data/create/recipes)
   - [Create's Current Compatibility Recipes](https://github.com/Creators-of-Create/Create/tree/mc1.18/dev/src/main/resources/data/create/recipes/compat)
+- Minecraft Datapacks
+  - [Skylinerw's Guide to Loot Tables](https://github.com/skylinerw/guides/blob/master/java/loot%20tables.md)
 
 ## To Do List
 ### Big Deal Hopefully Soon Things
 - Advancements for the various storage options available
 - Test the 1.18 Tinker's Construct Alpha!
 - Test the new Hexerei update (and update the pack files accordingly)
+- Instructions on where to find and how to apply optional datapacks for Stoneblock and Skyblock variations (with screenshots/maybe a video)
 
 ### Dreaded But Important Things
 - Find the source inspiration for the Trident crafting recipe
+- Move modlist to spreadsheet?
+  - Add cheerful 'Open Source' badges to included mods that have source code available
 - Polishing up the planning spreadsheet
   - Split off the sheets for side projects like spawn egg recipes for Hexerei
   - Making that public
   - Getting functions built to export Advancements to JSON
+  - function to check that items have their prereqs above them in the stone & sky recipe list
+  - parser to and from Bongo export file format to get and make item/challenge lists for that
 - Continue moving todos etc. from personal notes to here
   - Consider what should be moved here from the spreadsheet or vice versa
 - Server testing!
@@ -75,7 +87,6 @@ Email: [inserviceofinsight@gmail.com](mailto:inserviceofinsight@gmail.com)
     - [DataFixerSlayer](https://www.curseforge.com/minecraft/mc-mods/datafixerslayer)
     - [FastWorkbench Minus Replacement](https://www.curseforge.com/minecraft/mc-mods/fastworkbench-minus-replacement)
       - currently only updated to 1.16.5 - look for an alternative?
-
 
 ### Tweaks and QoL
 - Add some of the Minecraft commands I find super handy to the resources section
@@ -94,6 +105,7 @@ Email: [inserviceofinsight@gmail.com](mailto:inserviceofinsight@gmail.com)
   - Generate 'Items Only' Bongo list
   - Make an Automation focused Bongo that wants large quantities of things that can be fully automated
 - Make the modlist prettier and add donation and Discord links where available
+- Add Stonecutter Recipes: Fences, Fence Gates
 
 ### Hopefully Someday Things
 - New pack icon/logo
@@ -111,10 +123,30 @@ Email: [inserviceofinsight@gmail.com](mailto:inserviceofinsight@gmail.com)
 - Testing Optifine and complimentary shaders with the pack (the major issues should have been fixed!)
 - Store a copy of the configs folder here with notes about what's been changed from default
   - Notably Quark's Matrix Enchanting is not included (might consider adding that back in for the future if Easy Magic is too simplistic)
-- Add cheerful 'Open Source' badges to included mods that have source code available
-- Mods that haven't been updated but are slated to be added:
+
+### Maybe?
+- a 'mossy' tag for blocks that you can wash moss off? I'll probably need to make recipes for all of them though (worry about this later when I can quickly generate recipes?)
+- add tag lists to spreadsheet so they can be easily searched/updated?
+
+# Offshoot Projects
+- Optional Datapacks
+  - Mobless
+    - No mob farms required! Ways to produce and automate all possible mob drops (especially from hostile mobs)
+      - The idea behind this is to make fighting/killing mobs and animals optional and reduce server lag by providing alternatives to mob farms
+      - Examples: Tridents, Nether Stars, Totem of Undying
+    - No villager or piglin trades required
+  - Stay Home
+    - Ways to get drops that are normally available only through exploring/getting things from chests (e.x. the Pigstep Music Disc)
+    - Ways to craft spawn eggs
+  - Craft the Uncraftable
+    - Wild complicated recipes for items intended for creative mode use
+
+# Mods
+
+## Mods that haven't been fully updated but are slated to be added:
   - [Tinker's Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
-- Mods being considered for addition:
+
+## Mods being considered for addition:
   - [Fish in Planks](https://www.curseforge.com/minecraft/mc-mods/fish-in-planks)
     - currently since we have [Fishing Real](https://www.curseforge.com/minecraft/mc-mods/fishing-real) there's not likely to be a problem with folks getting far too many raw fish, however!
   - [Entangled](https://www.curseforge.com/minecraft/mc-mods/entangled)
@@ -131,18 +163,10 @@ Email: [inserviceofinsight@gmail.com](mailto:inserviceofinsight@gmail.com)
   - [Air Hop](https://www.curseforge.com/minecraft/mc-mods/air-hop)
   - [Pollution Of The Realms](https://www.curseforge.com/minecraft/mc-mods/pollution-of-the-realms)
   - [Gauges and Switches](https://www.curseforge.com/minecraft/mc-mods/redstone-gauges-and-switches)
-- Mods to find/discover/create
-  - A 'pokedex' of all JEI items with stats for percent held/submitted and option to set a number of them to have held/submitted
+  - May be included later or just done with resource pack textures:
+    - Clear Water
+    - Clear Skies
+    - Lava Clear View
 
-### Offshoot Projects
-- Optional Datapacks
-  - Mobless
-    - No mob farms required! Ways to produce and automate all possible mob drops (especially from hostile mobs)
-      - The idea behind this is to make fighting/killing mobs and animals optional and reduce server lag by providing alternatives to mob farms
-      - Examples: Tridents, Nether Stars, Totem of Undying
-    - No villager or piglin trades required
-  - Stay Home
-    - Ways to get drops that are normally available only through exploring/getting things from chests (e.x. the Pigstep Music Disc)
-    - Ways to craft spawn eggs
-  - Craft the Uncraftable
-    - Wild complicated recipes for items intended for creative mode use
+## Mods to find/discover/create
+  - A 'pokedex' of all JEI items with stats for percent held/submitted and option to set a number of them to have held/submitted
