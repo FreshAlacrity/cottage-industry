@@ -1,0 +1,14 @@
+
+.curseclient
+/saves/
+/schematics/
+/screenshots/
+/downloads/
+/mods/
+/resourcepacks/
+/logs/
+/Xaero*
+usercache.json
+usernamecache.json
+realms_persistence.json
+minecraftinstance.json

@@ -1,0 +1,47 @@
+// You can add custom loot entries by using xml-like tags. The relevant data needs to be surrounded by <...> and </...>
+// Looking at the default table will give you some examples
+// Adding a new entry requires at least the <strainer> and <item> tag (surrounded by <add>). Use <chance> to set item rarity (higher chance = more likely to drop)
+// To copy the current loot table to another strainer use the <parent> and <child> tag (surrounded by <copy>)
+// Please use a new line for every new entry or command, since loot entries can not spread over multiple lines!
+// For more info: http://bit.ly/waterstrainer
+
+// Version of this config
+// This is an internal value for the file parser, don't change it
+<configversion>2</configversion>
+
+// Survivalist's Strainer
+<add> <strainer>strainer_survivalist</strainer> <chance>80</chance> <item>minecraft:gravel</item> </add>
+<add> <strainer>strainer_survivalist</strainer> <chance>50</chance> <item>minecraft:sand</item> </add>
+<add> <strainer>strainer_survivalist</strainer> <chance>25</chance> <item>minecraft:dirt</item> </add>
+<add> <strainer>strainer_survivalist</strainer> <chance>15</chance> <item>minecraft:clay_ball</item> </add>
+<add> <strainer>strainer_fisherman</strainer> <chance>10</chance> <item>minecraft:rotten_flesh</item> </add>
+<add> <strainer>strainer_survivalist</strainer> <chance>7</chance> <item>create:crushed_copper_ore</item> </add>
+<add> <strainer>strainer_survivalist</strainer> <chance>5</chance> <item>create:crushed_iron_ore</item> </add>
+<add> <strainer>strainer_fisherman</strainer> <chance>1</chance> <item>minecraft:nautilus_shell</item> </add>
+
+<copy> <child>strainer_survivalist_solid</child> <parent>strainer_survivalist</parent> </copy>
+<copy> <child>strainer_survivalist_reinforced</child> <parent>strainer_survivalist</parent> </copy>
+
+// Fisherman's Strainer
+<add> <strainer>strainer_fisherman</strainer> <chance>80</chance> <item>minecraft:seagrass</item> </add>
+<add> <strainer>strainer_fisherman</strainer> <chance>5</chance> <item>minecraft:lily_pad</item> </add>
+<add> <strainer>strainer_fisherman</strainer> <chance>5</chance> <item>minecraft:enchanted_book</item> </add>
+<add> <strainer>strainer_fisherman</strainer> <chance>3</chance> <item>quark:blank_rune</item> </add>
+<add> <strainer>strainer_fisherman</strainer> <chance>5</chance> <item>minecraft:lapis_lazuli</item> </add>
+<add> <strainer>strainer_fisherman</strainer> <chance>3</chance> <item>quark:ravager_hide</item> </add>
+<add> <strainer>strainer_fisherman</strainer> <chance>4</chance> <item>minecraft:phantom_membrane</item> </add>
+<add> <strainer>strainer_fisherman</strainer> <chance>3</chance> <item>quark:crab_spawn_egg</item> </add>
+<add> <strainer>strainer_fisherman</strainer> <chance>2</chance> <item>minecraft:tropical_fish_spawn_egg</item> </add>
+<add> <strainer>strainer_fisherman</strainer> <chance>3</chance> <item>quark:frog_spawn_egg</item> </add>
+<add> <strainer>strainer_fisherman</strainer> <chance>1</chance> <item>minecraft:turtle_spawn_egg</item> </add>
+<add> <strainer>strainer_fisherman</strainer> <chance>2</chance> <item>minecraft:salmon_spawn_egg</item> </add>
+<add> <strainer>strainer_fisherman</strainer> <chance>3</chance> <item>minecraft:cod_spawn_egg</item> </add>
+<add> <strainer>strainer_fisherman</strainer> <chance>1</chance> <item>waystones:warp_stone</item> </add>
+<add> <strainer>strainer_fisherman</strainer> <chance>2</chance> <item>minecraft:squid_spawn_egg</item> </add>
+<add> <strainer>strainer_fisherman</strainer> <chance>1</chance> <item>minecraft:glow_squid_spawn_egg</item> </add>
+<add> <strainer>strainer_fisherman</strainer> <chance>1</chance> <item>minecraft:axolotl_spawn_egg</item> </add>
+<add> <strainer>strainer_fisherman</strainer> <chance>1</chance> <item>minecraft:heart_of_the_sea</item> </add>
+<add> <strainer>strainer_fisherman</strainer> <chance>100</chance> <item>$BLANK$</item> </add>
+
+<copy> <child>strainer_fisherman_solid</child> <parent>strainer_fisherman</parent> </copy>
+<copy> <child>strainer_fisherman_reinforced</child> <parent>strainer_fisherman</parent> </copy>
