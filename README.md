@@ -3,7 +3,7 @@
 
 Welcome to a kinder, gentler kind of Minecraft. Cottage Industry marries the cottage witchcraft of Hexerei with the aesthetic technology of Create to create a softer, more aesthetic survival experience. Right now it's pretty rough around the edges, but the goal is to make a pack suitable for casual survival building and landscaping while maintaining the chewy puzzle of how to automate a wide range of resources.
 
-The modpack that these datapacks are made for is available on CurseForge at https://www.curseforge.com/minecraft/modpacks/cottage-industry
+The modpack that these datapacks are made for is available on CurseForge at https://www.curseforge.com/minecraft/modpacks/cottage-industry (however they should work on other servers which contain the same core mods; Hexerei, Create and Create Deco, Supplementaries, Quark and Quark Oddities, Bongo, and Farmer's Delight)
   
   
 ## Current Contact Info
@@ -55,9 +55,14 @@ Email: [inserviceofinsight@gmail.com](mailto:inserviceofinsight@gmail.com)
 - Continue moving todos etc. from personal notes to here
   - Consider what should be moved here from the spreadsheet or vice versa
 - Server testing!
-  - add a chunk pregeneration mod for this
+  - add a chunk pregeneration mod for this, ask around in the Hexerei discord etc if folks have mods they recommend/find quite handy for server admin
 
 ### Tweaks and QoL
+- Add some of the Minecraft commands I find super handy to the resources section
+  - Function to get NBT data from selected hotbar item
+  - Function to get NBT data from block under player
+  - F3+H and F3+Q
+  - how to turn on various JEI modes + features (is there a guide to this somewhere?)
 - Get this readme formatted better
   - add a way to jump to different headers
 - Add a function for changing the gamerules to Cottage Industry standard
@@ -99,6 +104,9 @@ Email: [inserviceofinsight@gmail.com](mailto:inserviceofinsight@gmail.com)
 However, there is a patchouli_books folder in the modpack's root folder for modpack added books. It will appear and use the patchouli namespace."
   - [TelePastries](https://www.curseforge.com/minecraft/mc-mods/telepastries)
   - [Cycle Paintings by Serilum](https://www.curseforge.com/minecraft/mc-mods/cycle-paintings)
+  - [Absent by Design](https://www.curseforge.com/minecraft/mc-mods/absent-by-design)
+    - adds a bunch of things that would probably need to be tagged for recycling
+  - [Wooden Hopper](https://www.curseforge.com/minecraft/mc-mods/wooden-hopper)
 - Mods to find/discover/create
   - A 'pokedex' of all JEI items with stats for percent held/submitted and option to set a number of them to have held/submitted
 
