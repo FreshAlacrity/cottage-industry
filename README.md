@@ -55,10 +55,17 @@ Email: [inserviceofinsight@gmail.com](mailto:inserviceofinsight@gmail.com)
   - [Create's Guide on Adding Custom Recipes with Data Packs](https://github.com/Creators-of-Create/Create/wiki/Custom-Recipes)
   - [Create's Existing Recipes](https://github.com/Creators-of-Create/Create/tree/mc1.18/dev/src/generated/resources/data/create/recipes)
   - [Create's Current Compatibility Recipes](https://github.com/Creators-of-Create/Create/tree/mc1.18/dev/src/main/resources/data/create/recipes/compat)
-- Minecraft Datapacks
+- Minecraft Commands/Datapacks
   - [Skylinerw's Guide to Loot Tables](https://github.com/skylinerw/guides/blob/master/java/loot%20tables.md)
+  - Commands in Books
+    - https://www.reddit.com/r/MinecraftCommands/comments/m1w9a9/how_to_make_a_written_book_with_clickable/
+  - Advancements
+    - https://advancements.thedestruc7i0n.ca/
+    - https://github.com/skylinerw/guides/blob/master/java/advancements/triggers.md#placed_block
 - Github
   - [Syntax for .gitignore Files](https://www.atlassian.com/git/tutorials/saving-changes/gitignore#git-ignore-patterns)
+- Other
+  - The text editor I use: [Visual Studio Code](https://code.visualstudio.com/)
 
 ## To Do List
 ### Big Deal Hopefully Soon Things
@@ -70,12 +77,20 @@ Email: [inserviceofinsight@gmail.com](mailto:inserviceofinsight@gmail.com)
   - server .jar versions for Stoneblock and Skyblock with the appropriate datapacks etc. set as required
 
 ### Dreaded But Important Things
-- Find the source inspiration for the Trident crafting recipe
-- Move modlist to spreadsheet?
-  - Add cheerful 'Open Source' badges to included mods that have source code available
+- Look into the API to connect GitHub builds to CurseForge files automatically
+- Find the source inspiration for the Trident crafting recipe (if anybody reading this know where it comes from please let me know, I'd like to give them credit!)
+- Modlist
+  - Figure out a quick way to add version numbers
+  - See if I can include a fork/clone of the Ender Expansion inside my repository?
+    - I think this is called a submodule; check the links below to see if I can figure that out
+      - https://git-scm.com/book/en/v2/Git-Tools-Submodules
+      - https://stackoverflow.com/questions/18442124/github-using-someone-elses-repository
+    - If I can figure this out I can probably split off the Boss Bar Pomodoro timer etc. into submodules as well :D
+  - Add cheerful 'Open Source' badges next to mods that have source code available
 - Polishing up the planning spreadsheet
   - Split off the sheets for side projects like spawn egg recipes for Hexerei
-  - Making that public
+  - Make that public
+  - mark which potions are useful for Create things already
   - Getting functions built to export Advancements to JSON
   - function to check that items have their prereqs above them in the stone & sky recipe list
   - parser to and from Bongo export file format to get and make item/challenge lists for that

@@ -1,0 +1,15 @@
+FokaStudio's Ender Expansion is included in this folder as a .zip but it's not one I've made! Here's some handy links to learn more about it:
+
+Made by Foka/FokaStudio based on the 1.17.1 Far End pack by Hex (https://www.planetminecraft.com/data-pack/far-end-ender-expansion-datapack-v0-1/)
+
+Planet Minecraft page for the datapack here (has a list of what has changed from the Far End pack):
+https://www.planetminecraft.com/data-pack/fokastudio-s-ender-expansion/
+
+Source code for Foka's Ender Expansion here:
+https://github.com/FokaStudio/Fokas-Worldgen/tree/main/far-end-fork
+
+Discord Link:
+https://discord.gg/J6guYAySN8
+
+and Patreon!
+https://www.patreon.com/FokaStudio
