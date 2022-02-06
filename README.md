@@ -3,6 +3,8 @@
 
 Welcome to a kinder, gentler kind of Minecraft. Cottage Industry marries the cottage witchcraft of Hexerei with the aesthetic technology of Create to create a softer, more aesthetic survival experience. Right now it's pretty rough around the edges, but the goal is to make a pack suitable for casual survival building and landscaping while maintaining the chewy puzzle of how to automate a wide range of resources.
 
+**Caution:** This pack is not yet tested for server use! I'm hoping to include a server version in the future, but that may be a ways away. Suggestions and feedback are very welcome, but this version is just the core mods - no custom advancements are included yet, and the recipes included currently are basic compatibility and quality of life type things.
+
 ## Where to find Cottage Industry
 CurseForge at https://www.curseforge.com/minecraft/modpacks/cottage-industry 
 Github/Source at https://github.com/FreshAlacrity/cottage-industry
@@ -49,6 +51,8 @@ Email: [inserviceofinsight@gmail.com](mailto:inserviceofinsight@gmail.com)
 
 ## Known Issues
 - Weather in custom dimensions can't be cleared with commands
+- Quark's crimson bookshelves drop themselves and not books; can't seem to fix with a loot table in the usual location
+  - figure out where to report this
 
 ## Recommended Resources for Contributing/Similar Projects
 - Create
@@ -110,6 +114,9 @@ Email: [inserviceofinsight@gmail.com](mailto:inserviceofinsight@gmail.com)
       - currently only updated to 1.16.5 - look for an alternative?
 
 ### Tweaks and QoL
+- Check the configs for Quark 
+  - make sure Matrix Enchanting is turned off
+  - make sure dungeons won't generate in the asteroid dimension
 - Add some of the Minecraft commands I find super handy to the resources section
   - Function to get NBT data from selected hotbar item
   - Function to get NBT data from block under player
