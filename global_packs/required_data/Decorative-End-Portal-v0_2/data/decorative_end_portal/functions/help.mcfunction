@@ -1,0 +1,2 @@
+tellraw @a [{"text":"drop (don't throw) an eye of ender onto tinted glass with a block of iron underneath it to make a decorative end gateway block", "color":"blue"}]
+tellraw @a [{"text":"drop (don't throw) a snowball onto a gateway block with a block of iron beneath it to turn it back into tinted glass", "color":"white"}]

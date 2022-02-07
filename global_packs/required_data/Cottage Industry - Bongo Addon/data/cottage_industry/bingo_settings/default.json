@@ -1,0 +1,28 @@
+{
+  "invulnerable": false,
+  "winCondition": "bongo.default",
+  "friendlyFire": false,
+  "lockTaskOnDeath": false,
+  "teleportsPerTeam": -1,
+  "consumeItems": false,
+  "pvp": false,
+  "startingInventory": [
+    {
+      "id": "minecraft:leather_helmet",
+      "Slot": "head"
+    }
+  ],
+  "backpackInventory": [
+    {
+      "id": "minecraft:apple"
+    }
+  ],
+  "emergencyItems": [
+    {
+      "id": "minecraft:lava_bucket"
+    }
+  ],
+  "teleporter": "bongo.no_tp",
+  "teleportRadius": 500,
+  "maxTime": -1
+}
