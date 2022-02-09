@@ -1,0 +1,3 @@
+[submodule "global_packs/required_data/asteroid-dimension"]
+	path = global_packs/required_data/asteroid-dimension
+	url = https://github.com/FreshAlacrity/asteroid-dimension
