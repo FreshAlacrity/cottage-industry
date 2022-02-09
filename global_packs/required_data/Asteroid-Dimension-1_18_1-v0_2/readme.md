@@ -35,12 +35,14 @@ dimension id - asteroid:asteroids_dimension
 Most of these changes require restarting the game to take effect
 
 ### Quark
-Dungeons - blacklist minecraft:asteroid_surface biome and/or mushroom biome types as places to put dungeons, or else it'll stick those in midair in the asteroid dimension
-
-Corundum - can whitelist asteroid:asteroids_dimension in the corundum generation settings if desired
-
-### Create
-Not sure how to get Create to not put zinc ores there yet #todo
+Dungeons - will generate in midair in this dimension unless configured to disallow minecraft:asteroid_surface biome and/or mushroom biome types as places to put them
+Corundum - if you allow corundum generation in the asteroid dimension and have not disallowed mushroom biomes or generation between roughly y0-y64, corundum blocks and crystals can generate here (in/under the islands, not in midair)
 
 ### Supplementaries
-Urns - blacklist `minecraft:asteroid_surface` as a place to put urns
+Urns - disallow `minecraft:asteroid_surface` as a place to put urns, else they will be scattered around island surfaces
+
+### Tinker's Construct
+Skyslime geodes, will spawn in midair; there does not seem to be a way to prevent this in the current version (as of v3.4.0.34)
+
+### Create
+Currently there's no way to get zinc ore to not spawn in custom dimensions without disabling it for the over world as well (as of Create 0.4d) however if you generate it only below ~0 that will miss most of the islands at the cost of changing the normal overworld game balance
