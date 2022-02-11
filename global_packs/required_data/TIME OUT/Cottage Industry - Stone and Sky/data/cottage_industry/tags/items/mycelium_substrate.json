@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:hay_block",
+    "supplementaries:flax_block",
+    "farmersdelight:rice_bale"
+  ]
+}

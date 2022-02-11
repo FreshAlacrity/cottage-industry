@@ -1,4 +1,7 @@
 {
+  "bongo": {
+    "bingo_items": true
+  },
   "minecraft": {
     "horse_inventory": true,
     "total_ench_power": true,

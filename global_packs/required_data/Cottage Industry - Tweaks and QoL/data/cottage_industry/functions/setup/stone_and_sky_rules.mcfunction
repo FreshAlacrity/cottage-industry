@@ -1,0 +1,4 @@
+gamerule doInsomnia false
+gamerule doLimitedCrafting false
+gamerule doMobSpawning false
+gamerule keepInventory true

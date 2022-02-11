@@ -1,0 +1,6 @@
+gamerule disableRaids true
+gamerule doPatrolSpawning false
+gamerule doTraderSpawning false
+gamerule doLimitedCrafting false
+gamerule playersSleepingPercentage 1
+gamerule disableElytraMovementCheck true
