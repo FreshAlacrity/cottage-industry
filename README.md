@@ -12,17 +12,17 @@ Welcome to a kinder, gentler kind of Minecraft. Cottage Industry marries the cot
 - configs that make sense for the pack and help the mods work together
 
 ## Where to find Cottage Industry
-[Download and Install with CurseForge](https://www.curseforge.com/minecraft/modpacks/cottage-industry)
-[How to Play and Design Goals on our Wiki/Manifesto](https://github.com/FreshAlacrity/cottage-industry/wiki)
-[Source Code on Github](https://github.com/FreshAlacrity/cottage-industry)
-[Planning Spreadsheet with Complete Mod & Datapack List](https://docs.google.com/spreadsheets/d/1MNArZYOw71WiJqb6-LdFV4QfBXVaWCjCc2xgWQWzSKI/edit?usp=sharing)
+[Download and Install with CurseForge](https://www.curseforge.com/minecraft/modpacks/cottage-industry)  
+[How to Play and Design Goals on our Wiki/Manifesto](https://github.com/FreshAlacrity/cottage-industry/wiki)  
+[Source Code on Github](https://github.com/FreshAlacrity/cottage-industry)  
+[Planning Spreadsheet with Complete Mod & Datapack List](https://docs.google.com/spreadsheets/d/1MNArZYOw71WiJqb6-LdFV4QfBXVaWCjCc2xgWQWzSKI/edit?usp=sharing)  
 
 Note: The datapacks included in the repository should in theory also work on other modpacks which contain the same core mods, those being Hexerei, Create and Create Deco, Tinker's Construct, Supplementaries, Quark and Quark Oddities, Bongo, and Farmer's Delight
 
 ## Current Contact Info
-Issues, ToDos & Requests: [GitHub Issues](https://github.com/FreshAlacrity/cottage-industry/issues)
+Issues, ToDos & Requests: [GitHub Issues](https://github.com/FreshAlacrity/cottage-industry/issues)  
 Discord (DMs Open): [Tea Witch (they/them)#6256](https://discordapp.com/users/Tea%20Witch%20(they/them)#6256)  
-Email: [inserviceofinsight@gmail.com](mailto:inserviceofinsight@gmail.com)
+Email: [inserviceofinsight@gmail.com](mailto:inserviceofinsight@gmail.com)  
 
 ## Changelog
 - February 7, 2022
