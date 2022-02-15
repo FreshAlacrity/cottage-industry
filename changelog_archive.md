@@ -1,0 +1,32 @@
+## Changelog Archive
+*Know a good way to keep pretty changelogs? Please let me know!*
+- February 14, 2022
+  - Version 0.0.6 released to CurseForge and approved (as experimental)
+  - New format for Featured list
+  - New mods added for multiplayer support (server testing begins soon!)
+  - Several mods updated to most recent available versions
+  - New pack icon!
+- February 7, 2022
+  - Many more links added to Featured list on Spreadsheet
+  - Much prettier Featured list for CurseForge Description
+- February 6, 2022
+  - Tinker's Construct added, among others!
+- February 5, 2022
+  - published planning spreadsheet
+    - now has a complete modlist with filenames and namespace info!
+  - zipped Decorative End Portal datapack
+- February 4, 2022
+  - made a list of included and currently being considered mods/datapacks in the spreadsheet
+  - budding amethyst and budding selenite have new drop tables (based off vanilla coal ore and glass) where they'll drop blocks of the material with a regular pick and the budding versions with a silk touch pick
+  - added required datapacks
+    - Asteroid Dimension
+  - added optional datapacks
+    - Boss Bar Pomodoro
+    - Cottage Industry: Stone and Sky
+  - change to folder structure for better ongoing compatibility with the [Global Data- & Resourcepacks mod](https://www.curseforge.com/minecraft/mc-mods/drp-global-datapack)
+  - changed item references in the Decorative End Portal datapack to use item ID rather than name (to hopefully head off any issues for folks playing in other languages)
+- February 3, 2022
+  - added intro videos for Create and Hexerei to [the pack's CurseForge page](https://www.curseforge.com/minecraft/modpacks/cottage-industry)
+  - updated the pack description's section on starter tips to reflect the new Dowsing Rod from Hexerei
+  - added this new readme document and moved a bunch of To Do items and notes here
+  - started up the GitHub repository!
