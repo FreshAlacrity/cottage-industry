@@ -40,6 +40,7 @@ see [Contact Information on the Wiki](https://github.com/FreshAlacrity/cottage-i
   - New format for Featured list
   - New mods added for multiplayer support (server testing begins soon!)
   - Several mods updated to most recent available versions
+  - New pack icon!
 - February 7, 2022
   - Many more links added to Featured list on Spreadsheet
   - Much prettier Featured list for CurseForge Description
@@ -78,6 +79,8 @@ see [Contact Information on the Wiki](https://github.com/FreshAlacrity/cottage-i
 
 # Planning
 ## To Do List
+*slowly moving these to Issues*
+
 ### Next
 - add Bongo and make a book with clickable Bongo commands
 - update Hexerei items on spreadsheet - dowsing rod especially should be tagged to include as an advancement
@@ -98,45 +101,27 @@ see [Contact Information on the Wiki](https://github.com/FreshAlacrity/cottage-i
 
 ### Dreaded But Important Things
 - Look into the API to connect GitHub builds to CurseForge files automatically
+  - Is it possible to even generate the Featured list and publish that from the sheet using the API?
 - Find the source inspiration for the Trident crafting recipe (if anybody reading this know where it comes from please let me know, I'd like to give them credit!)
-- See if I can include a fork/clone of the Ender Expansion inside my repository?
-  - I think this is called a submodule; check the links below to see if I can figure that out
-    - https://git-scm.com/book/en/v2/Git-Tools-Submodules
-    - https://stackoverflow.com/questions/18442124/github-using-someone-elses-repository
-  - If I can figure this out I can probably split off the Boss Bar Pomodoro timer etc. into submodules as well :D
-- Continue moving todos etc. from personal notes to here or vice versa
 
 ### Tweaks and QoL
-- Add some of the Minecraft commands I find super handy to the resources section
+- Add to the Wiki some of the Minecraft commands I find super handy
   - Function to get NBT data from selected hotbar item
   - Function to get NBT data from block under player
   - F3+H and F3+Q
   - how to turn on various JEI modes + features (is there a guide to this somewhere?)
-- Get this readme formatted better
-  - add a way to jump to different headers
-- Add a function for changing the gamerules to Cottage Industry standard
 - Check if any other plants added by Farmer's Delight, Supplementaries etc should be added to Hexerei's herbs list
 - Giving the Efficiency Meter as a reward for a Strainer Base crafting advancement so folks can learn how that works easily
 - Include the optional resource packs for things like the Toolbelt in the modpack files
-- Disable the Quark pipes since Create handles item transfers
 - Bongo
   - Generate 'Items Only' Bongo list
   - Make an Automation focused Bongo that wants large quantities of things that can be fully automated
-- Make the modlist prettier and add donation and Discord links where available
 - Add Stonecutter Recipes: Fences, Fence Gates
 
 ### Hopefully Someday Things
-- New pack icon/logo
-  - Wrench and (Mahogany) Broomstick?
 - Figure out if there's a way to submit the filling + emptying recipes for Hexerei compatiblity to go into [Create's comptability recipes](https://github.com/Creators-of-Create/Create/tree/mc1.18/dev/src/main/resources/data/create/recipes/compat)
-- Custom dimensions (Asteroids and the Deeps) if including [Falling Through](https://www.curseforge.com/minecraft/mc-mods/falling-through)
+- Include a mini-guide on Quark pipes somewhere
 - Pack specific textures in a dedicated resource pack
-- Stoneblock/Skyblock map types and recipes
+- Stoneblock/Skyblock map types (alternate dimensions by default) and recipes
   - See if @Malthe0503 from the Create Discord has posted a fancy illustrated flowchart of what can already be made with cobblestone using Create
-  - test dimension worldgen noise settings for this; check for spawning on bedrock (might want to do a lava roof like the stoneblock I played for 1.12 ages ago)
-- Find a way to remove certain blocks from JEI (or possibly rename them)
-  - e.x. Quark's Chute since it more or less duplicates Create's Chute (similarly, Limestone)
-- Testing Optifine and complimentary shaders with the pack (the major issues should have been fixed!)
-- Keep notes about what's been changed from default configs for various mods?
-  - Changed where Quark's dungeons are allowed to generate
-  - Quark's Matrix Enchanting is disabled (might consider adding that back in for the future if Easy Magic is too simplistic)
+  - test dimension worldgen noise settings for this; check for spawning on bedrock (might want to do a lava roof like the the original stoneblock pack)
