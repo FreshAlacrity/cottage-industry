@@ -81,10 +81,6 @@ see [Contact Information on the Wiki](https://github.com/FreshAlacrity/cottage-i
 *slowly moving these to Issues*
 
 ### Next
-- test/implement auto-changelog generator
-  - trying https://github.com/marketplace/actions/automatic-changelog-generator
-  - tried https://github.com/marketplace/actions/auto-generate-changelog previously
-  - not sure what's going wrong :(
 - add Bongo and make a book with clickable Bongo commands
 - update Hexerei items on spreadsheet - dowsing rod especially should be tagged to include as an advancement
 - Polishing up the planning spreadsheet
