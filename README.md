@@ -75,13 +75,14 @@ see [Contact Information on the Wiki](https://github.com/FreshAlacrity/cottage-i
   - This is a known issue with vanilla so we'll have to wait until Mojang fixes it
 - Quark's crimson bookshelves drop themselves and not books; can't seem to fix with a loot table in the usual location
 - Changelog is less detailed than it probably should be at this point
-- Readme here not well synced with CurseForge description
 
 # Planning
 ## To Do List
 *slowly moving these to Issues*
 
 ### Next
+- test/implement auto-changelog generator
+  - trying https://github.com/marketplace/actions/auto-generate-changelog now
 - add Bongo and make a book with clickable Bongo commands
 - update Hexerei items on spreadsheet - dowsing rod especially should be tagged to include as an advancement
 - Polishing up the planning spreadsheet
