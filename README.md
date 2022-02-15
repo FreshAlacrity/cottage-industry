@@ -3,9 +3,11 @@
 
 Welcome to a kinder, gentler kind of Minecraft! Cottage Industry marries the cottage witchcraft of Hexerei with the aesthetic technology of Create and the satisfying tool-customization experience of Tinker's Construct and many other supporting mods to create a softer, more aesthetic survival experience. Right now it's pretty rough around the edges, but the goal is to make a pack suitable for casual survival building and landscaping while maintaining the chewy puzzle of how to automate a wide range of resources.
 
-Suggestions and feedback are very welcome, but the current version is just the core mods. No custom advancements are included yet, and the recipes included currently are either experimental or basic compatibility and quality of life type things. Expect changes to come!
+**Suggestions and feedback are very welcome**, but the current version is just the core mods. No custom advancements are included yet, and the recipes included currently are either experimental or basic compatibility and quality of life type things. Expect changes to come!
 
-Server testing is slated to begin soon - [get more information on that and how to apply to help test here.](https://github.com/FreshAlacrity/cottage-industry/wiki/Test-Servers)
+There are a few [known issues with mods in the pack (list on the wiki)](https://github.com/FreshAlacrity/cottage-industry/wiki/Known-Issues). Most notably, the Dowsing Rod item from Hexerei will crash the game if thrown or placed into an item frame (this should be fixed in the next update).
+
+**Server testing** is slated to begin soon - [get more information on that and how to apply to help test here.](https://github.com/FreshAlacrity/cottage-industry/wiki/Test-Servers)
 
 Optifine is **not included** and it **may cause the game to crash** if it is added. I've tested version 0.0.5 with OptiFine HD U H4 and had that work, so if you'd like to try including that [you can get that here](https://www.curseforge.com/linkout?remoteUrl=https%253a%252f%252foptifine.net%252fdownloads). (Optifine is not part of the CurseForge ecosystem, so it can't be included in the pack directly.)
 
@@ -104,11 +106,7 @@ see [Contact Information on the Wiki](https://github.com/FreshAlacrity/cottage-i
   - If I can figure this out I can probably split off the Boss Bar Pomodoro timer etc. into submodules as well :D
 - Continue moving todos etc. from personal notes to here or vice versa
 
-
 ### Tweaks and QoL
-- Check the configs for Quark 
-  - make sure Matrix Enchanting is turned off
-  - make sure dungeons won't generate in the asteroid dimension
 - Add some of the Minecraft commands I find super handy to the resources section
   - Function to get NBT data from selected hotbar item
   - Function to get NBT data from block under player
