@@ -1,9 +1,15 @@
 # Cottage Industry
 *a cosy Minecraft survival modpack with aesthetic automation and cottage witchcraft*
 
-Welcome to a kinder, gentler kind of Minecraft. Cottage Industry marries the cottage witchcraft of Hexerei with the aesthetic technology of Create to create a softer, more aesthetic survival experience. Right now it's pretty rough around the edges, but the goal is to make a pack suitable for casual survival building and landscaping while maintaining the chewy puzzle of how to automate a wide range of resources.
+Welcome to a kinder, gentler kind of Minecraft! Cottage Industry marries the cottage witchcraft of Hexerei with the aesthetic technology of Create and the satisfying tool-customization experience of Tinker's Construct and many other supporting mods to create a softer, more aesthetic survival experience. Right now it's pretty rough around the edges, but the goal is to make a pack suitable for casual survival building and landscaping while maintaining the chewy puzzle of how to automate a wide range of resources.
 
-**Caution:** This pack is not yet tested for server use! I'm hoping to include a server version in the future, but that may be a ways away. Suggestions and feedback are very welcome, but this version is just the core mods - no custom advancements are included yet, and the recipes included currently are basic compatibility and quality of life type things.
+Suggestions and feedback are very welcome, but the current version is just the core mods. No custom advancements are included yet, and the recipes included currently are either experimental or basic compatibility and quality of life type things. Expect changes to come!
+
+Server testing is slated to begin soon - [get more information on that and how to apply to help test here.](https://github.com/FreshAlacrity/cottage-industry/wiki/Test-Servers)
+
+Optifine is **not included** and it **may cause the game to crash** if it is added. I've tested version 0.0.5 with OptiFine HD U H4 and had that work, so if you'd like to try including that [you can get that here](https://www.curseforge.com/linkout?remoteUrl=https%253a%252f%252foptifine.net%252fdownloads). (Optifine is not part of the CurseForge ecosystem, so it can't be included in the pack directly.)
+
+The MIT license for the pack only applies to things I've added to the pack - the mods and datapacks themselves are **licensed separately** by their creators (details in the Featured list below!)
 
 ## What Does Cottage Industry Have?
 - curated mods, tested to work together (so far only in singleplayer)
@@ -22,9 +28,16 @@ Note: The datapacks included in the repository should in theory also work on oth
 ## Current Contact Info
 Issues, ToDos & Requests: [GitHub Issues](https://github.com/FreshAlacrity/cottage-industry/issues)
 Discord (DMs Open): [Tea Witch (they/them)#6256](https://discordapp.com/users/Tea%20Witch%20(they/them)#6256)  
-Email: [inserviceofinsight@gmail.com](mailto:inserviceofinsight@gmail.com)
+Email: [inserviceofinsight@gmail.com](mailto:inserviceofinsight@gmail.com)  
+see [Contact Information on the Wiki](https://github.com/FreshAlacrity/cottage-industry/wiki/Contact-Information) for a more complete list
 
 ## Changelog
+*Know a good way to keep pretty changelogs? Please let me know!*
+- February 14, 2022
+  - Version 0.0.6 released to CurseForge and approved (as experimental)
+  - New format for Featured list
+  - New mods added for multiplayer support (server testing begins soon!)
+  - Several mods updated to most recent available versions
 - February 7, 2022
   - Many more links added to Featured list on Spreadsheet
   - Much prettier Featured list for CurseForge Description

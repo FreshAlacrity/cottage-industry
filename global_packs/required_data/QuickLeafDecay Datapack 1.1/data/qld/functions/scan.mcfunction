@@ -1,0 +1,10 @@
+execute if score ticks QLDtimer matches 2 positioned ~ ~ ~ run function qld:detect/layer
+execute if score ticks QLDtimer matches 4 positioned ~ ~1 ~ run function qld:detect/layer
+execute if score ticks QLDtimer matches 6 positioned ~ ~2 ~ run function qld:detect/layer
+execute if score ticks QLDtimer matches 8 positioned ~ ~3 ~ run function qld:detect/layer
+execute if score ticks QLDtimer matches 10 positioned ~ ~4 ~ run function qld:detect/layer
+execute if score ticks QLDtimer matches 12 positioned ~ ~5 ~ run function qld:detect/layer
+execute if score ticks QLDtimer matches 14 positioned ~ ~6 ~ run function qld:detect/layer
+execute if score ticks QLDtimer matches 16 positioned ~ ~7 ~ run function qld:detect/layer
+execute if score ticks QLDtimer matches 18 positioned ~ ~8 ~ run function qld:detect/layer
+execute if score ticks QLDtimer matches 20 positioned ~ ~9 ~ run function qld:detect/layer
