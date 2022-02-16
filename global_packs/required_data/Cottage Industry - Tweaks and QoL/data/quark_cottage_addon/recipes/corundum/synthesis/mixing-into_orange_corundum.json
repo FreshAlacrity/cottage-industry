@@ -5,14 +5,14 @@
       "item": "create:crushed_aluminum_ore"
     },
     {
-      "tag": "forge:dyes/yellow"
+      "tag": "forge:dyes/orange"
     }
   ],
   "results": [
     {
-      "item": "quark:yellow_corundum_cluster",
+      "item": "quark:orange_corundum_cluster",
       "count": 1
     }
   ],
-  "heatRequirement": "superheated"
+  "heatRequirement": "heated"
 }
