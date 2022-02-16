@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#b#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:leather"
+    },
+    "b": {
+      "item": "minecraft:rotten_flesh"
+    }
+  },
+  "result": {
+    "item": "quark:ravager_hide"
+  }
+}

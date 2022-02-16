@@ -1,0 +1,15 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "tag": "cottage_industry:makes_soul_sand"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:soul_sand",
+      "chance": 0.7
+    }
+  ],
+  "processingTime": 200
+}

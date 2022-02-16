@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "quark:bonded_leather"
+    }
+  ],
+  "results": [
+    {
+      "item": "quark:ravager_hide"
+    }
+  ]
+}
