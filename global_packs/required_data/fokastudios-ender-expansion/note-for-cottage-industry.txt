@@ -1,0 +1,4 @@
+this is a clone of https://github.com/FokaStudio/Fokas-Worldgen/tree/main/far-end-fork as of 2/14/2022
+(none of the contents are by me/WanderingEnby)
+
+if you know how to add a sub directory of a repository as a submodule, please let me know!
