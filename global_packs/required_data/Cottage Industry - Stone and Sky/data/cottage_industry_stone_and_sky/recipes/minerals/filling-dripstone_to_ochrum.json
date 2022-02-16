@@ -2,10 +2,10 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "item": "minecraft:dripstone"
+      "item": "minecraft:dripstone_block"
     },
     {
-      "fluid": "minecraft:honey",
+      "fluid": "create:honey",
       "amount": 250
     }
   ],

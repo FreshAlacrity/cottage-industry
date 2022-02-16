@@ -2,7 +2,7 @@
   "type": "create:mixing",
   "ingredients": [
     {
-      "item": "create:crushed_aluminum_ore"
+      "item": "quark:white_corundum_cluster"
     },
     [
       {
@@ -19,5 +19,5 @@
       "count": 1
     }
   ],
-  "heatRequirement": "superheated"
+  "heatRequirement": "heated"
 }

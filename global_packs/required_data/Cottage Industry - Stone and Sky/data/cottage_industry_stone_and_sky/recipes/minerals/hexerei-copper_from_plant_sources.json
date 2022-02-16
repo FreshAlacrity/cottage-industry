@@ -1,0 +1,39 @@
+{
+  "type": "hexerei:mixingcauldron",
+  "liquid": {
+    "fluid": "minecraft:water"
+  },
+  "ingredients": [
+    {
+      "tag": "cottage_industry_stone_and_sky:contains_copper"
+    },
+    {
+      "tag": "cottage_industry_stone_and_sky:contains_copper"
+    },
+    {
+      "tag": "cottage_industry_stone_and_sky:contains_copper"
+    },
+    {
+      "tag": "cottage_industry_stone_and_sky:contains_copper"
+    },
+    {
+      "tag": "cottage_industry_stone_and_sky:contains_copper"
+    },
+    {
+      "tag": "cottage_industry_stone_and_sky:contains_copper"
+    },
+    {
+      "tag": "cottage_industry_stone_and_sky:contains_copper"
+    },
+    {
+      "tag": "cottage_industry_stone_and_sky:contains_copper"
+    }
+  ],
+  "output": {
+    "item": "create:copper_nugget"
+  },
+  "liquidOutput": {
+    "fluid": "hexerei:blood_fluid"
+  },
+  "fluidLevelsConsumed": 666
+}
