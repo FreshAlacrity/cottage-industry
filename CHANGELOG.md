@@ -11,6 +11,7 @@
 **Closed issues:**
 
 - Implement and test automatic changelogs [\#11](https://github.com/FreshAlacrity/cottage-industry/issues/11)
+- Add \[World Generation\] page to Wiki [\#5](https://github.com/FreshAlacrity/cottage-industry/issues/5)
 - Add \[Configs\] page to Wiki [\#4](https://github.com/FreshAlacrity/cottage-industry/issues/4)
 - Move ReadMe items to Wiki that make more sense there [\#3](https://github.com/FreshAlacrity/cottage-industry/issues/3)
 
