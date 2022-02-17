@@ -6,8 +6,8 @@
     	}
     ], 
 	"results": [
-		{	"item": "minecraft:kelp",	  		  "count": 3, 	"chance": 0.1 	},
-		{	"item": "minecraft:sand",	  		  "count": 2, 	"chance": 0.1 	},
-		{	"item": "minecraft:sea_pickle",	  "count": 1, 	"chance": 0.05	}
+		{	"item": "minecraft:kelp",	  		  "count": 3, 	"chance": 0.10 	},
+		{	"item": "minecraft:sand",	  		  "count": 1, 	"chance": 0.05 	},
+		{	"item": "minecraft:sea_pickle",	  "count": 1, 	"chance": 0.03	}
 	]
 }

@@ -133,8 +133,8 @@ key_gui.xaero_toggle_map_waypoints:key.keyboard.unknown
 key_gui.xaero_toggle_map:key.keyboard.o
 key_gui.xaero_enlarge_map:key.keyboard.unknown
 key_gui.xaero_waypoints_key:key.keyboard.u
-key_gui.xaero_zoom_in:key.keyboard.unknown
-key_gui.xaero_zoom_out:key.keyboard.unknown
+key_gui.xaero_zoom_in:key.keyboard.equal
+key_gui.xaero_zoom_out:key.keyboard.minus
 key_gui.xaero_new_waypoint:key.keyboard.b
 key_gui.xaero_display_all_sets:key.keyboard.unknown
 key_gui.xaero_toggle_light_overlay:key.keyboard.unknown
