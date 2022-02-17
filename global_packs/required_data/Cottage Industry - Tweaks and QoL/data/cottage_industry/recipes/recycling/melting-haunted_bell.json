@@ -1,0 +1,20 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": [
+    {
+      "item": "create:haunted_bell"
+    }
+  ],
+  "result": {
+    "fluid": "tconstruct:molten_brass",
+    "amount": 360
+  },
+  "temperature": 600,
+  "time": 107,
+  "byproducts": [
+    {
+      "fluid": "tconstruct:liquid_soul",
+      "amount": 10
+    }
+  ]
+}

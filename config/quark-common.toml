@@ -1339,7 +1339,7 @@
 					"Is Blacklist" = true
 
 [client]
-	"Variant Animal Textures" = true
+	"Variant Animal Textures" = false
 	"Usage Ticker" = true
 	"Microcrafting Helper" = true
 	"Improved Tooltips" = true
