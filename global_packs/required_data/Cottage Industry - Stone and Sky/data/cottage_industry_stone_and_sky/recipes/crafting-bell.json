@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B",
+    "s"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:gold_block"
+    },
+    "s": {
+      "item": "create:golden_sheet"
+    }
+  },
+  "result": {
+    "item": "minecraft:bell"
+  }
+}
