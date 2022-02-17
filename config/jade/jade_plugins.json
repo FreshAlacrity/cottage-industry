@@ -44,5 +44,8 @@
     "item_mod_name": false,
     "mod_name": true,
     "entity_hp": true
+  },
+  "telepastries": {
+    "telepastries.bites.name": true
   }
 }
