@@ -12,6 +12,3 @@
 usercache.json
 usernamecache.json
 realms_persistence.json
-minecraftinstance.json
-!/python/main.py
-python/*
