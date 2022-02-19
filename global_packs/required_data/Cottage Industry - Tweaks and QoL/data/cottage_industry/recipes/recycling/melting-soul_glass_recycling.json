@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "cottage_industry:makes_soul_sand"
+  },
+  "result": {
+    "fluid": "tconstruct:liquid_soul",
+    "amount": 500
+  },
+  "temperature": 750,
+  "time": 80
+}

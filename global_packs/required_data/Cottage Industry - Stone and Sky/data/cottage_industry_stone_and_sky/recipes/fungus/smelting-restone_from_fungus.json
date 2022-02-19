@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:crimson_fungus"
+  },
+  "result": "minecraft:redstone",
+  "experience": 0.5,
+  "cookingtime": 400
+}

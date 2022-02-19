@@ -1,0 +1,17 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": [
+      {
+        "tag": "cottage_industry:makes_regular_sand"
+      },
+      {
+        "tag": "cottage_industry:makes_red_sand"
+      }
+  ],
+  "result": {
+    "fluid": "tconstruct:molten_glass",
+    "amount": 500
+  },
+  "temperature": 750,
+  "time": 80
+}

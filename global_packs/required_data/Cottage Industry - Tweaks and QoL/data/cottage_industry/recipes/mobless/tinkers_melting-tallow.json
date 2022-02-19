@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "cottage_industry:contains_wax"
+  },
+  "result": {
+    "fluid": "hexerei:tallow_fluid",
+    "amount": 100
+  },
+  "temperature": 1000,
+  "time": 80
+}

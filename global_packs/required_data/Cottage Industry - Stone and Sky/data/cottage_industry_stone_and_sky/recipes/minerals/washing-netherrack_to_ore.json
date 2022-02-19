@@ -1,0 +1,13 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+    	{
+    		"item": "minecraft:netherrack"
+    	}
+    ], 
+	"results": [
+		{	"item": "minecraft:nether_gold_ore",  	"count": 1, 	"chance": 0.01 	},
+		{	"item": "minecraft:nether_quartz_ore",	"count": 1, 	"chance": 0.005 },
+		{	"item": "tconstruct:cobalt_ore",	  		"count": 1, 	"chance": 0.001 }
+	]
+}

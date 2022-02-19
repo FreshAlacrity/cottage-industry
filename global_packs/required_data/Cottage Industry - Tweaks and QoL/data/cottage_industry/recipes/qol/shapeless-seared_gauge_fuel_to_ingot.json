@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tconstruct:seared_fuel_gauge"
+    }
+  ],
+  "result": {
+    "item": "tconstruct:seared_ingot_gauge"
+  }
+}

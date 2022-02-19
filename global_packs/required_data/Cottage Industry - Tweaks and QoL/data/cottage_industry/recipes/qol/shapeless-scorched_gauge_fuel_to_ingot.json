@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tconstruct:scorched_fuel_gauge"
+    }
+  ],
+  "result": {
+    "item": "tconstruct:scorched_ingot_gauge"
+  }
+}

@@ -36,7 +36,7 @@ ao:1
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","file/original_Mizunos 16 Craft JE_1.18-1.0.zip","mod_resources","quark:emote_resources","file/5better-end-flower (1).zip","file/Copper Legacy Pack.zip","file/Excalibur_V1.18_pruned","file/@_More_Perfect_v0.3"]
+resourcePacks:["vanilla","file/original_Mizunos 16 Craft JE_1.18-1.0.zip","mod_resources","quark:emote_resources","file/5better-end-flower (1).zip","file/Copper Legacy Pack.zip","global:Name Changes","file/@_More_Perfect_v0.3"]
 incompatibleResourcePacks:["quark:emote_resources","file/5better-end-flower (1).zip"]
 lastServer:
 lang:en_us
@@ -111,17 +111,24 @@ key_key.openNotes:key.keyboard.n
 key_key.hexerei.broomDescend:key.keyboard.left.control
 key_Show recipe book in crafting grid toggle.:key.keyboard.tab
 key_panorama.keybinds.screenshot:key.keyboard.f4
+key_key.tconstruct.helmet_interact:key.keyboard.z
+key_key.tconstruct.leggings_interact:key.keyboard.i
+key_Open the Crash Utilities Screen:key.keyboard.u:CONTROL
+key_Copy Container Class:key.keyboard.unknown
+key_Show Slot Index Tooltips:key.keyboard.unknown
 key_key.waila.config:key.keyboard.keypad.0
 key_key.waila.show_overlay:key.keyboard.keypad.1
 key_key.waila.toggle_liquid:key.keyboard.keypad.2
 key_key.waila.show_details:key.keyboard.left.shift
-key_key.tconstruct.helmet_interact:key.keyboard.z
-key_key.tconstruct.leggings_interact:key.keyboard.i
-key_gui.xaero_open_map:key.keyboard.m
-key_gui.xaero_open_settings:key.keyboard.right.bracket
-key_gui.xaero_map_zoom_in:key.keyboard.unknown
-key_gui.xaero_map_zoom_out:key.keyboard.unknown
-key_gui.xaero_quick_confirm:key.keyboard.right.shift
+key_create.keyinfo.toolmenu:key.keyboard.left.alt
+key_create.keyinfo.toolbelt:key.keyboard.left.alt
+key_quark.keybind.change_hotbar:key.keyboard.z
+key_quark.keybind.sort_player:key.mouse.middle
+key_quark.keybind.sort_container:key.mouse.middle
+key_quark.keybind.autorun:key.keyboard.unknown
+key_quark.keybind.lock_rotation:key.keyboard.k
+key_quark.keybind.camera_mode:key.keyboard.f12
+key_quark.keybind.back:key.mouse.4
 key_gui.xaero_switch_waypoint_set:key.keyboard.unknown
 key_gui.xaero_instant_waypoint:key.keyboard.keypad.add
 key_gui.xaero_toggle_slime:key.keyboard.unknown
@@ -139,10 +146,9 @@ key_gui.xaero_toggle_light_overlay:key.keyboard.unknown
 key_gui.xaero_toggle_entity_radar:key.keyboard.unknown
 key_gui.xaero_reverse_entity_radar:key.keyboard.unknown
 key_gui.xaero_minimap_settings:key.keyboard.y
-key_quark.keybind.autorun:key.keyboard.unknown
-key_quark.keybind.sort_player:key.mouse.middle
-key_quark.keybind.sort_container:key.mouse.middle
-key_quark.keybind.lock_rotation:key.keyboard.k
+key_quark.keybind.transfer_insert:key.keyboard.unknown
+key_quark.keybind.transfer_extract:key.keyboard.unknown
+key_quark.keybind.shift_lock:key.keyboard.unknown
 key_quark.emote.no:key.keyboard.unknown
 key_quark.emote.yes:key.keyboard.unknown
 key_quark.emote.wave:key.keyboard.unknown
@@ -161,23 +167,21 @@ key_quark.keybind.patreon_emote.dab:key.keyboard.unknown
 key_quark.keybind.patreon_emote.jet:key.keyboard.unknown
 key_quark.keybind.patreon_emote.exorcist:key.keyboard.unknown
 key_quark.keybind.patreon_emote.zombie:key.keyboard.unknown
-key_quark.keybind.back:key.mouse.4
-key_quark.keybind.change_hotbar:key.keyboard.z
+key_option.skip:key.keyboard.right
 key_fps.key.toggle_fps:key.keyboard.unknown
 key_fps.key.toggle_ping:key.keyboard.unknown
 key_fps.key.toggle_memory:key.keyboard.unknown
 key_fps.key.toggle_all:key.keyboard.unknown
-key_quark.keybind.transfer_insert:key.keyboard.unknown
-key_quark.keybind.transfer_extract:key.keyboard.unknown
-key_quark.keybind.shift_lock:key.keyboard.unknown
 key_key.ftbquests.quests:key.keyboard.q
-key_quark.keybind.camera_mode:key.keyboard.f12
 key_bongo.big_overlay:key.keyboard.y
-key_create.keyinfo.toolmenu:key.keyboard.left.alt
-key_create.keyinfo.toolbelt:key.keyboard.left.alt
+key_gui.xaero_open_map:key.keyboard.m
+key_gui.xaero_open_settings:key.keyboard.right.bracket
+key_gui.xaero_map_zoom_in:key.keyboard.unknown
+key_gui.xaero_map_zoom_out:key.keyboard.unknown
+key_gui.xaero_quick_confirm:key.keyboard.right.shift
 key_key.configured.open_mod_list:key.keyboard.unknown
 key_key.jei.toggleOverlay:key.keyboard.o
-key_key.jei.focusSearch:key.keyboard.f
+key_key.jei.focusSearch:key.keyboard.f:CONTROL
 key_key.jei.previousPage:key.keyboard.unknown
 key_key.jei.nextPage:key.keyboard.unknown
 key_key.jei.toggleBookmarkOverlay:key.keyboard.unknown
@@ -190,12 +194,12 @@ key_key.jei.clearSearchBar:key.mouse.right
 key_key.jei.previousSearch:key.keyboard.up
 key_key.jei.nextSearch:key.keyboard.down
 key_key.jei.toggleCheatMode:key.keyboard.unknown
-key_key.jei.toggleCheatModeConfigButton:key.mouse.left
+key_key.jei.toggleCheatModeConfigButton:key.mouse.right
 key_key.jei.cheatOneItem:key.mouse.left
 key_key.jei.cheatOneItem2:key.mouse.right
 key_key.jei.cheatItemStack:key.mouse.left
 key_key.jei.cheatItemStack2:key.mouse.middle
-key_key.jei.toggleEditMode:key.keyboard.unknown
+key_key.jei.toggleEditMode:key.keyboard.h:CONTROL
 key_key.jei.toggleHideIngredient:key.mouse.left
 key_key.jei.toggleWildcardHideIngredient:key.mouse.right
 key_key.jei.recipeBack:key.keyboard.backspace
@@ -209,7 +213,7 @@ key_key.toolbelt.open:key.keyboard.r
 key_key.toolbelt.cycle.left:key.keyboard.unknown
 key_key.toolbelt.cycle.right:key.keyboard.unknown
 key_key.toolbelt.slot:key.keyboard.v
-soundCategory_master:0.5620861
+soundCategory_master:0.7086093
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0

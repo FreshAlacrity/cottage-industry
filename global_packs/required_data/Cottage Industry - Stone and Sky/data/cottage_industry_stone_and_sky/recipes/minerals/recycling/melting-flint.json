@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "minecraft:flint"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_quartz",
+    "amount": 10
+  },
+  "temperature": 1450,
+  "time": 17
+}

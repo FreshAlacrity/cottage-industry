@@ -2,6 +2,8 @@
   "replace": false,
   "values": [
     "tconstruct:soul_glass",
+    "create:scoria",
+    "create:scorchia",
     "quark:soul_sandstone_bricks",
     "quark:soul_sandstone",
     "quark:soul_sandstone_bricks_slab",

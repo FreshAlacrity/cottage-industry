@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tconstruct:seared_basin"
+    }
+  ],
+  "result": {
+    "item": "tconstruct:seared_table"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:casting_basin",
+  "cast": {
+    "item": "hexerei:budding_selenite"
+  },
+  "cast_consumed": true,
+  "fluid": {
+    "tag": "tconstruct:slime",
+    "amount": 1000
+  },
+  "result": "tconstruct:budding_earth_slime_crystal",
+  "cooling_time": 221
+}
