@@ -1,0 +1,3119 @@
+{
+  "tasks": [
+    {
+      "tag": "balm:black_dyes",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "balm:blue_dyes",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "balm:brown_dyes",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "balm:cooking_oil",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "balm:cyan_dyes",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "balm:eggs",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "balm:emeralds",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "balm:gold_nuggets",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "balm:gray_dyes",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "balm:green_dyes",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "balm:light_blue_dyes",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "balm:light_gray_dyes",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "balm:lime_dyes",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "balm:magenta_dyes",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "balm:orange_dyes",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "balm:pink_dyes",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "balm:purple_dyes",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "balm:red_dyes",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "balm:white_dyes",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "balm:wooden_rods",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "balm:yellow_dyes",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "cottage_industry:also_calcite",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "cottage_industry:also_dripstone",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "cottage_industry:contains_more_copper",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "cottage_industry:contains_quicksilver",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "cottage_industry:contains_wax",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "cottage_industry:hoes",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "cottage_industry:makes_red_sand",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "cottage_industry:makes_regular_sand",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "cottage_industry:makes_soul_sand",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "cottage_industry:milk_sources",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "cottage_industry:mycelium_substrate",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "cottage_industry:permafrost",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "cottage_industry_stone_and_sky:also_calcite",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "cottage_industry_stone_and_sky:also_dripstone",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "cottage_industry_stone_and_sky:contains_copper",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "cottage_industry_stone_and_sky:contains_more_copper",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "cottage_industry_stone_and_sky:contains_quicksilver",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "cottage_industry_stone_and_sky:contains_wax",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "cottage_industry_stone_and_sky:hoes",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "cottage_industry_stone_and_sky:iron_recycling",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "cottage_industry_stone_and_sky:milk_sources",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "cottage_industry_stone_and_sky:mycelium_substrate",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "cottage_industry_stone_and_sky:permafrost",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "create:create_ingots",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "create:crushed_ores",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "create:sandpaper",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "create:seats",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "create:stone_types/andesite",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "create:stone_types/asurine",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "create:stone_types/calcite",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "create:stone_types/crimsite",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "create:stone_types/deepslate",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "create:stone_types/diorite",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "create:stone_types/dripstone",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "create:stone_types/granite",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "create:stone_types/limestone",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "create:stone_types/ochrum",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "create:stone_types/scorchia",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "create:stone_types/scoria",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "create:stone_types/tuff",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "create:stone_types/veridium",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "create:toolboxes",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "create:upright_on_belt",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "create:valve_handles",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "curios:belt",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "curios:curio",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "curios:ring",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "farmersdelight:cabbage_roll_ingredients",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "farmersdelight:canvas_signs",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "farmersdelight:offhand_equipment",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "farmersdelight:straw_harvesters",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "farmersdelight:tools/knives",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "farmersdelight:wild_crops",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "farmersdelight:wolf_prey",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "fokastudio:colored_shulker_boxes",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:barrels",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:barrels/wooden",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:beacon_payment",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:bones",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:books",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:books/guide",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:bookshelves",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:bread",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:bread/wheat",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:buckets/honey",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:chests",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:chests/ender",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:chests/trapped",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:chests/wooden",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:cobblestone",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:cobblestone/deepslate",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:cobblestone/infested",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:cobblestone/mossy",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:cobblestone/normal",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:concrete",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:concrete_powders",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:cooked_bacon",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:cooked_beef",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:cooked_chicken",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:cooked_eggs",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:cooked_fishes",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:cooked_fishes/cod",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:cooked_fishes/salmon",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:cooked_mutton",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:cooked_pork",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:crops",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:crops/beetroot",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:crops/cabbage",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:crops/carrot",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:crops/flax",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:crops/nether_wart",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:crops/onion",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:crops/potato",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:crops/rice",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:crops/tomato",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:crops/wheat",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:dirt",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:dusts",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:dusts/glowstone",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:dusts/prismarine",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:dusts/redstone",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:dyes",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:dyes/black",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:dyes/blue",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:dyes/brown",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:dyes/cyan",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:dyes/gray",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:dyes/green",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:dyes/light_blue",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:dyes/light_gray",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:dyes/lime",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:dyes/magenta",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:dyes/orange",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:dyes/pink",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:dyes/purple",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:dyes/red",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:dyes/white",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:dyes/yellow",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:eggs",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:enchanting_fuels",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:end_stones",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:ender_pearls",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:feathers",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:fence_gates",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:fence_gates/wooden",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:fences",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:fences/nether_brick",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:fences/wooden",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:fiber",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:fiber/flax",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:gems",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:gems/amethyst",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:gems/diamond",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:gems/emerald",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:gems/lapis",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:gems/prismarine",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:gems/quartz",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:glass",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:glass/black",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:glass/blue",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:glass/brown",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:glass/colorless",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:glass/cyan",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:glass/gray",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:glass/green",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:glass/light_blue",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:glass/light_gray",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:glass/lime",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:glass/magenta",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:glass/orange",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:glass/pink",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:glass/purple",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:glass/red",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:glass/silica",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:glass/tinted",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:glass/white",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:glass/yellow",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:glass_panes",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:glass_panes/black",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:glass_panes/blue",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:glass_panes/brown",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:glass_panes/colorless",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:glass_panes/cyan",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:glass_panes/gray",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:glass_panes/green",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:glass_panes/light_blue",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:glass_panes/light_gray",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:glass_panes/lime",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:glass_panes/magenta",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:glass_panes/orange",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:glass_panes/pink",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:glass_panes/purple",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:glass_panes/red",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:glass_panes/white",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:glass_panes/yellow",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:grain",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:grain/rice",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:grain/wheat",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:gravel",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:gunpowder",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:heads",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:ingots",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:ingots/brass",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:ingots/brick",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:ingots/cobalt",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:ingots/copper",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:ingots/gold",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:ingots/hepatizon",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:ingots/iron",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:ingots/knightslime",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:ingots/manyullyn",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:ingots/nether_brick",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:ingots/netherite",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:ingots/netherite_scrap",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:ingots/pig_iron",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:ingots/queens_slime",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:ingots/rose_gold",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:ingots/silicon_bronze",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:ingots/slimesteel",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:ingots/soulsteel",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:ingots/zinc",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:leather",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:milk",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:milk/milk",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:milk/milk_bottle",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:mushrooms",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:nether_stars",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:netherrack",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:nuggets",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:nuggets/brass",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:nuggets/cobalt",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:nuggets/copper",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:nuggets/gold",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:nuggets/hepatizon",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:nuggets/iron",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:nuggets/knightslime",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:nuggets/manyullyn",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:nuggets/netherite",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:nuggets/netherite_scrap",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:nuggets/pig_iron",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:nuggets/queens_slime",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:nuggets/rose_gold",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:nuggets/silicon_bronze",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:nuggets/slimesteel",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:nuggets/soulsteel",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:nuggets/zinc",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:obsidian",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:ore_bearing_ground/deepslate",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:ore_bearing_ground/netherrack",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:ore_bearing_ground/stone",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:ore_rates/dense",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:ore_rates/singular",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:ore_rates/sparse",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:ores",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:ores/coal",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:ores/cobalt",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:ores/copper",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:ores/diamond",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:ores/emerald",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:ores/gold",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:ores/iron",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:ores/lapis",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:ores/netherite_scrap",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:ores/quartz",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:ores/redstone",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:ores/zinc",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:ores_in_ground/deepslate",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:ores_in_ground/netherrack",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:ores_in_ground/stone",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:pasta",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:pasta/raw_pasta",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:plates",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:plates/brass",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:plates/copper",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:plates/gold",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:plates/iron",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:plates/netherite",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:plates/zinc",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:raw_bacon",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:raw_beef",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:raw_chicken",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:raw_fishes",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:raw_fishes/cod",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:raw_fishes/salmon",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:raw_fishes/tropical_fish",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:raw_materials",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:raw_materials/cobalt",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:raw_materials/copper",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:raw_materials/gold",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:raw_materials/iron",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:raw_materials/zinc",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:raw_mutton",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:raw_pork",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:rods",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:rods/blaze",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:rods/wooden",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:salad_ingredients",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:salad_ingredients/cabbage",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:sand",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:sand/colorless",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:sand/red",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:sandstone",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:seeds",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:seeds/beetroot",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:seeds/cabbage",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:seeds/flax",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:seeds/melon",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:seeds/pumpkin",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:seeds/rice",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:seeds/tomato",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:seeds/wheat",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:shears",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:shulker_boxes",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:slimeball/blood",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:slimeball/earth",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:slimeball/ender",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:slimeball/ichor",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:slimeball/sky",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:slimeballs",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:stained_glass",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:stained_glass_panes",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:stone",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:storage_blocks",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:storage_blocks/amethyst",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:storage_blocks/brass",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:storage_blocks/charcoal",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:storage_blocks/coal",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:storage_blocks/cobalt",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:storage_blocks/copper",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:storage_blocks/diamond",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:storage_blocks/emerald",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:storage_blocks/gold",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:storage_blocks/hepatizon",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:storage_blocks/iron",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:storage_blocks/knightslime",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:storage_blocks/lapis",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:storage_blocks/manyullyn",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:storage_blocks/netherite",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:storage_blocks/pig_iron",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:storage_blocks/quartz",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:storage_blocks/queens_slime",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:storage_blocks/raw_cobalt",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:storage_blocks/raw_copper",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:storage_blocks/raw_gold",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:storage_blocks/raw_iron",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:storage_blocks/raw_zinc",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:storage_blocks/redstone",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:storage_blocks/rose_gold",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:storage_blocks/silicon_bronze",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:storage_blocks/slimesteel",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:storage_blocks/soulsteel",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:storage_blocks/zinc",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:string",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:terracotta",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:tools",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:tools/axes",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:tools/knives",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:tools/pickaxes",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:tools/scythe",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:tools/shovels",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:vegetables",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:vegetables/beetroot",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:vegetables/carrot",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:vegetables/onion",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:vegetables/potato",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:vegetables/tomato",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:wither_bones",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "forge:workbenches",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "hexerei:broom_brush",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "hexerei:broom_misc",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "hexerei:candles",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "hexerei:herbs",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "hexerei:large_satchels",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "hexerei:medium_satchels",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "hexerei:sigils",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "hexerei:small_satchels",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "itemfilters:check_nbt",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "itemfilters:filters",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "libx:impl_buttons",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "libx:impl_doors",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "libx:impl_fences",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "libx:impl_signs",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "libx:impl_slabs",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "libx:impl_stairs",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "libx:impl_trapdoors",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "libx:impl_walls",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "libx:impl_wooden_buttons",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "libx:impl_wooden_doors",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "libx:impl_wooden_fences",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "libx:impl_wooden_pressure_plates",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "libx:impl_wooden_slabs",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "libx:impl_wooden_stairs",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "libx:impl_wooden_trapdoors",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:acacia_logs",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:anvil",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:arrows",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:axolotl_tempt_items",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:banners",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:beacon_payment_items",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:beds",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:birch_logs",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:boats",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:buttons",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:candles",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:carpets",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:cluster_max_harvestables",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:coal_ores",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:coals",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:copper_ores",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:creeper_drop_music_discs",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:crimson_stems",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:dark_oak_logs",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:diamond_ores",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:dirt",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:doors",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:emerald_ores",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:fences",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:fishes",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:flowers",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:fox_food",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:freeze_immune_wearables",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:gold_ores",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:ignored_by_piglin_babies",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:iron_ores",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:jungle_logs",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:lapis_ores",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:leaves",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:lectern_books",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:logs",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:logs_that_burn",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:music_discs",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:non_flammable_wood",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:oak_logs",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:occludes_vibration_signals",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:piglin_food",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:piglin_loved",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:piglin_repellents",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:planks",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:rails",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:redstone_ores",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:sand",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:saplings",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:signs",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:slabs",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:small_flowers",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:soul_fire_base_blocks",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:spruce_logs",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:stairs",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:stone_bricks",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:stone_crafting_materials",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:stone_tool_materials",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:tall_flowers",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:terracotta",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:trapdoors",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:walls",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:warped_stems",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:wooden_buttons",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:wooden_doors",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:wooden_fences",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:wooden_pressure_plates",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:wooden_slabs",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:wooden_stairs",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:wooden_trapdoors",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "minecraft:wool",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "quark:big_harvesting_hoes",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "quark:boatable_chests",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "quark:corundum",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "quark:glow_shroom_feedables",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "quark:hedges",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "quark:ladders",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "quark:reacharound_able",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "quark:revertable_chests",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "quark:runes",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "quark:runes_lootable",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "quark:seed_pouch_holdable",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "quark:shards",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "quark:stone_tool_materials",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "quark:stools",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "quark:vertical_slab",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "sereneseasons:autumn_crops",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "sereneseasons:spring_crops",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "sereneseasons:summer_crops",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "sereneseasons:winter_crops",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "starmute:armor",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "starmute:blackstone_blocks",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "starmute:brewing_ingredients",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "starmute:gold_stackable",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "starmute:gold_unstackable",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "starmute:iron_stackable",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "starmute:tools",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "starmute:tools_armor",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "supplementaries:chains",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "supplementaries:chalk",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "supplementaries:chocolate_bars",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "supplementaries:cookies",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "supplementaries:fire_sources",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "supplementaries:flags",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "supplementaries:flower_box_plantable",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "supplementaries:hanging_signs",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "supplementaries:hourglass_dusts",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "supplementaries:hourglass_sands",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "supplementaries:key",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "supplementaries:pedestal_downright",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "supplementaries:pedestal_upright",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "supplementaries:placeable_books",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "supplementaries:presents",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "supplementaries:ropes",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "supplementaries:shulker_blacklist",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "supplementaries:sign_posts",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "supplementaries:throwable_bricks",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:anvil_metal",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:autosmelt_blacklist",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:bloodshroom_logs",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/empty/basin",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/empty/table",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/gold",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/multi_use",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/multi_use/broad_axe_head",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/multi_use/broad_blade",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/multi_use/coin",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/multi_use/gear",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/multi_use/gem",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/multi_use/hammer_head",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/multi_use/ingot",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/multi_use/large_plate",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/multi_use/nugget",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/multi_use/pick_head",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/multi_use/plate",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/multi_use/repair_kit",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/multi_use/rod",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/multi_use/round_plate",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/multi_use/small_axe_head",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/multi_use/small_blade",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/multi_use/tool_binding",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/multi_use/tool_handle",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/multi_use/tough_handle",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/multi_use/wire",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/red_sand",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/sand",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/single_use",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/single_use/blank",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/single_use/broad_axe_head",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/single_use/broad_blade",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/single_use/coin",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/single_use/gear",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/single_use/gem",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/single_use/hammer_head",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/single_use/ingot",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/single_use/large_plate",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/single_use/nugget",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/single_use/pick_head",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/single_use/plate",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/single_use/repair_kit",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/single_use/rod",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/single_use/round_plate",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/single_use/small_axe_head",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/single_use/small_blade",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/single_use/tool_binding",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/single_use/tool_handle",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/single_use/tough_handle",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:casts/single_use/wire",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:chrysophilite_ores",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:congealed_slime",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:copper_platforms",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:duct_containers",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:fireballs",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:foundry",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:greenheart_logs",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:guides",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:inventory_blacklist",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:modifiable",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:modifiable/aoe",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:modifiable/armor",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:modifiable/armor/boots",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:modifiable/armor/chestplate",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:modifiable/armor/helmets",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:modifiable/armor/leggings",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:modifiable/durability",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:modifiable/harvest",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:modifiable/harvest/primary",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:modifiable/harvest/stone",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:modifiable/held",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:modifiable/interactable",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:modifiable/melee",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:modifiable/melee/primary",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:modifiable/melee/sword",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:modifiable/melee_or_harvest",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:modifiable/melee_or_unarmed",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:modifiable/multipart",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:modifiable/one_handed",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:modifiable/two_handed",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:parts",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:patterns",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:patterns/default",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:patterns/reusable",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:planklike",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:scorched_blocks",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:scorched_tanks",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:seared_blocks",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:seared_bricks",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:seared_tanks",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:seeds",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:skyroot_logs",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:slime_block",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:slimeslings",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:slimy_grass_seeds",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:slimy_leaves",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:slimy_logs",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:slimy_planks",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:slimy_saplings",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:smeltery",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:stoneshields",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:structure_debug/foundry",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:structure_debug/general",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:structure_debug/smeltery",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:tables",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:tanks",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:wood_variants/logs",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "tconstruct:wood_variants/planks",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "waystones:dyed_sharestone",
+      "Count": 1,
+      "type": "bongo.tag"
+    },
+    {
+      "tag": "waystones:sharestone",
+      "Count": 1,
+      "type": "bongo.tag"
+    }
+  ]
+}

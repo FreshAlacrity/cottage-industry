@@ -1,0 +1,256 @@
+{
+  "tasks": [
+    {
+      "biome": "hexerei:willow_swamp",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:badlands",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:bamboo_jungle",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:basalt_deltas",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:beach",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:birch_forest",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:cold_ocean",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:crimson_forest",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:dark_forest",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:deep_cold_ocean",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:deep_frozen_ocean",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:deep_lukewarm_ocean",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:deep_ocean",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:desert",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:dripstone_caves",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:end_barrens",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:end_highlands",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:end_midlands",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:eroded_badlands",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:flower_forest",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:forest",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:frozen_ocean",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:frozen_peaks",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:frozen_river",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:grove",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:ice_spikes",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:jagged_peaks",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:jungle",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:lukewarm_ocean",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:lush_caves",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:meadow",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:mushroom_fields",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:nether_wastes",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:ocean",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:old_growth_birch_forest",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:old_growth_pine_taiga",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:old_growth_spruce_taiga",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:plains",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:river",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:savanna",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:savanna_plateau",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:small_end_islands",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:snowy_beach",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:snowy_plains",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:snowy_slopes",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:snowy_taiga",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:soul_sand_valley",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:sparse_jungle",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:stony_peaks",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:stony_shore",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:sunflower_plains",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:swamp",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:taiga",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:the_end",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:the_void",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:warm_ocean",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:warped_forest",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:windswept_forest",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:windswept_gravelly_hills",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:windswept_hills",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:windswept_savanna",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "minecraft:wooded_badlands",
+      "type": "bongo.biome"
+    },
+    {
+      "biome": "quark:glimmering_weald",
+      "type": "bongo.biome"
+    }
+  ]
+}

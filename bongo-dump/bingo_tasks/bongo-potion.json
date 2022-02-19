@@ -1,0 +1,224 @@
+{
+  "tasks": [
+    {
+      "potion": "farmersdelight:comfort",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "farmersdelight:nourishment",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "minecraft:absorption",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "minecraft:bad_omen",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "minecraft:blindness",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "minecraft:conduit_power",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "minecraft:dolphins_grace",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "minecraft:fire_resistance",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "minecraft:glowing",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "minecraft:haste",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "minecraft:health_boost",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "minecraft:hero_of_the_village",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "minecraft:hunger",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "minecraft:invisibility",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "minecraft:jump_boost",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "minecraft:levitation",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "minecraft:luck",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "minecraft:mining_fatigue",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "minecraft:nausea",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "minecraft:night_vision",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "minecraft:poison",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "minecraft:regeneration",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "minecraft:resistance",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "minecraft:slow_falling",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "minecraft:slowness",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "minecraft:speed",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "minecraft:strength",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "minecraft:unluck",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "minecraft:water_breathing",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "minecraft:weakness",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "minecraft:wither",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "quark:resilience",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "tconstruct:bleeding",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "tconstruct:calcified",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "tconstruct:carry",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "tconstruct:fireball_cooldown",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "tconstruct:insatiable",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "tconstruct:magnetic",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "tconstruct:momentum",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "tconstruct:teleport_cooldown",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "xaerominimap:no_cave_maps",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "xaerominimap:no_cave_maps_beneficial",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "xaerominimap:no_cave_maps_harmful",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "xaerominimap:no_entity_radar",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "xaerominimap:no_entity_radar_beneficial",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "xaerominimap:no_entity_radar_harmful",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "xaerominimap:no_minimap",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "xaerominimap:no_minimap_beneficial",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "xaerominimap:no_minimap_harmful",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "xaerominimap:no_waypoints",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "xaerominimap:no_waypoints_beneficial",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "xaerominimap:no_waypoints_harmful",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "xaeroworldmap:no_world_map",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "xaeroworldmap:no_world_map_beneficial",
+      "type": "bongo.potion"
+    },
+    {
+      "potion": "xaeroworldmap:no_world_map_harmful",
+      "type": "bongo.potion"
+    }
+  ]
+}

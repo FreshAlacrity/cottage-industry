@@ -1,0 +1,16 @@
+{
+  "startingInventory": [],
+  "maxTime": -1,
+  "friendlyFire": false,
+  "consumeItems": false,
+  "teleportRadius": 10000,
+  "pvp": false,
+  "emergencyItems": [],
+  "invulnerable": true,
+  "teleporter": "bongo.default",
+  "lockout": false,
+  "winCondition": "bongo.default",
+  "lockTaskOnDeath": false,
+  "teleportsPerTeam": 0,
+  "backpackInventory": []
+}

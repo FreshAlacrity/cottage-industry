@@ -1,0 +1,1040 @@
+{
+  "tasks": [
+    {
+      "advancement": "create:aesthetics",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:andesite_alloy",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:andesite_casing",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:arm_blaze_burner",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:arm_many_targets",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:basin",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:belt",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:belt_funnel",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:belt_funnel_kiss",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:blaze_burner",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:blaze_cake",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:brass",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:brass_casing",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:chained_item_drain",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:chocolate",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:chocolate_wheel",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:chute",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:clockwork_bearing",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:clockwork_component_eob",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:compact",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:copper_casing",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:crafter",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:crushing_wheel",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:cuckoo",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:deployer",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:dual_extendo_grip",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:electron_tube",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:extendo_grip",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:fan",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:fan_lava",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:fan_smoke",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:fan_water",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:fist_bump",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:flywheel",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:glass_pipe",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:goggles",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:hose_pulley",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:infinite_chocolate",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:infinite_lava",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:infinite_water",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:item_drain",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:its_alive",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:lava_wheel",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:maxed_windmill",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:mechanical_arm",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:mechanical_drill",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:mechanical_saw",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:millstone",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:mixer",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:musical_arm",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:nixie_tube",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:overstress_flywheel",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:overstressed",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:pipe_collision",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:pipe_spill",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:polished_rose_quartz",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:potato_cannon",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:precision_mechanism",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:press",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:reinforced",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:root",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:shifting_gears",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:speed_controller",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:speedometer",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:splitter_tunnel",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:spout",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:spout_potion",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:stressometer",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:tunnel",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:upward_chute",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:wand_of_symmetry",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:water_wheel",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:windmill",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "create:wrench",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "farmersdelight:main/craft_knife",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "farmersdelight:main/drink_hot_cocoa",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "farmersdelight:main/eat_comfort_food",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "farmersdelight:main/eat_nourishing_food",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "farmersdelight:main/get_ham",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "farmersdelight:main/get_mushroom_colony",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "farmersdelight:main/get_rich_soil",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "farmersdelight:main/harvest_straw",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "farmersdelight:main/master_chef",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "farmersdelight:main/obtain_netherite_knife",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "farmersdelight:main/place_campfire",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "farmersdelight:main/place_cooking_pot",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "farmersdelight:main/place_feast",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "farmersdelight:main/place_skillet",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "farmersdelight:main/place_stove",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "farmersdelight:main/plant_all_crops",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "farmersdelight:main/plant_rice",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "farmersdelight:main/root",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "farmersdelight:main/use_cutting_board",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "farmersdelight:main/use_skillet",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "fokastudio:end/anger_enderman",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "fokastudio:end/block_dragon_attack",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "fokastudio:end/block_enderman",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "fokastudio:end/bullseye_2",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "fokastudio:end/color_shulker_box",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "fokastudio:end/creepy_eyes",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "fokastudio:end/defeat_shulker",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "fokastudio:end/eat_chorus_fruit",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "fokastudio:end/elytra_break",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "fokastudio:end/elytra_enchanted_break",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "fokastudio:end/ender_adventurer",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "fokastudio:end/find_stronghold",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "fokastudio:end/future_to_the_past",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "fokastudio:end/jump_into_the_void",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "fokastudio:end/levitate_2",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "fokastudio:end/pass_egg",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "fokastudio:end/plant_chorus",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "fokastudio:end/portable_storage",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "fokastudio:end/remove_gateway_new",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "fokastudio:end/remove_gateway_new_2",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "fokastudio:end/return_to_overworld",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "fokastudio:end/shield_block",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "fokastudio:end/shulker_bullet",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "fokastudio:end/treasure_room",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:adventure/adventuring_time",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:adventure/arbalistic",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:adventure/bullseye",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:adventure/fall_from_world_height",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:adventure/hero_of_the_village",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:adventure/honey_block_slide",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:adventure/kill_a_mob",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:adventure/kill_all_mobs",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:adventure/lightning_rod_with_villager_no_fire",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:adventure/ol_betsy",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:adventure/play_jukebox_in_meadows",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:adventure/root",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:adventure/shoot_arrow",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:adventure/sleep_in_bed",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:adventure/sniper_duel",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:adventure/spyglass_at_dragon",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:adventure/spyglass_at_ghast",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:adventure/spyglass_at_parrot",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:adventure/summon_iron_golem",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:adventure/throw_trident",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:adventure/totem_of_undying",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:adventure/trade",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:adventure/trade_at_world_height",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:adventure/two_birds_one_arrow",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:adventure/very_very_frightening",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:adventure/voluntary_exile",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:adventure/walk_on_powder_snow_with_leather_boots",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:adventure/whos_the_pillager_now",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:end/dragon_breath",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:end/dragon_egg",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:end/elytra",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:end/enter_end_gateway",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:end/find_end_city",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:end/kill_dragon",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:end/levitate",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:end/respawn_dragon",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:end/root",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:husbandry/axolotl_in_a_bucket",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:husbandry/balanced_diet",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:husbandry/bred_all_animals",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:husbandry/breed_an_animal",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:husbandry/complete_catalogue",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:husbandry/fishy_business",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:husbandry/kill_axolotl_target",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:husbandry/make_a_sign_glow",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:husbandry/obtain_netherite_hoe",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:husbandry/plant_seed",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:husbandry/ride_a_boat_with_a_goat",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:husbandry/root",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:husbandry/safely_harvest_honey",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:husbandry/silk_touch_nest",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:husbandry/tactical_fishing",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:husbandry/tame_an_animal",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:husbandry/wax_off",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:husbandry/wax_on",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:nether/all_effects",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:nether/all_potions",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:nether/brew_potion",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:nether/charge_respawn_anchor",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:nether/create_beacon",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:nether/create_full_beacon",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:nether/distract_piglin",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:nether/explore_nether",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:nether/fast_travel",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:nether/find_bastion",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:nether/find_fortress",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:nether/get_wither_skull",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:nether/loot_bastion",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:nether/netherite_armor",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:nether/obtain_ancient_debris",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:nether/obtain_blaze_rod",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:nether/obtain_crying_obsidian",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:nether/return_to_sender",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:nether/ride_strider",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:nether/ride_strider_in_overworld_lava",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:nether/root",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:nether/summon_wither",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:nether/uneasy_alliance",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:nether/use_lodestone",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:story/cure_zombie_villager",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:story/deflect_arrow",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:story/enchant_item",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:story/enter_the_end",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:story/enter_the_nether",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:story/follow_ender_eye",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:story/form_obsidian",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:story/iron_tools",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:story/lava_bucket",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:story/mine_diamond",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:story/mine_stone",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:story/obtain_armor",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:story/root",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:story/shiny_gear",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:story/smelt_iron",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "minecraft:story/upgrade_tools",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "supplementaries:adventure/globe",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "supplementaries:adventure/way_sign",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "supplementaries:husbandry/soap",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "supplementaries:husbandry/sus_stew",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "supplementaries:nether/goblet",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "supplementaries:story/turn_table",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "supplementaries:story/unenchanter",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "supplementaries:story/wrench",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "tconstruct:foundry/alloyer",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "tconstruct:foundry/blaze",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "tconstruct:foundry/encyclopedia",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "tconstruct:foundry/fantastic_foundry",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "tconstruct:foundry/manyullyn_lanterns",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "tconstruct:foundry/plate_armor",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "tconstruct:foundry/structure",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "tconstruct:smeltery/abilities",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "tconstruct:smeltery/cast_collector",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "tconstruct:smeltery/gold_casting",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "tconstruct:smeltery/melter",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "tconstruct:smeltery/mighty_smelting",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "tconstruct:smeltery/puny_smelting",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "tconstruct:smeltery/sand_casting",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "tconstruct:smeltery/structure",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "tconstruct:smeltery/tinkers_anvil",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "tconstruct:smeltery/tool_forge",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "tconstruct:tools/make_part",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "tconstruct:tools/material_master",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "tconstruct:tools/materials_and_you",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "tconstruct:tools/modified",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "tconstruct:tools/part_builder",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "tconstruct:tools/tinker_station",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "tconstruct:tools/tinker_tool",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "tconstruct:tools/tool_smith",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "tconstruct:tools/travelers_gear",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "tconstruct:tools/upgrade_slots",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "tconstruct:world/blood_island",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "tconstruct:world/clay_island",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "tconstruct:world/earth_island",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "tconstruct:world/ender_island",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "tconstruct:world/piggybackpack",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "tconstruct:world/sky_island",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "tconstruct:world/slime_collector",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "tconstruct:world/slime_sling",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "tconstruct:world/slimeskull",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "tconstruct:world/slimesuit",
+      "type": "bongo.advancement"
+    },
+    {
+      "advancement": "tconstruct:world/tinkers_gadgetry",
+      "type": "bongo.advancement"
+    }
+  ]
+}

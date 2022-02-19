@@ -1,0 +1,336 @@
+{
+  "tasks": [
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:axolotl"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:bat"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:bee"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:blaze"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:cat"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:cave_spider"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:chicken"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:cod"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:cow"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:creeper"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:dolphin"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:donkey"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:drowned"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:elder_guardian"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:ender_dragon"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:enderman"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:endermite"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:evoker"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:fox"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:ghast"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:giant"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:glow_squid"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:goat"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:guardian"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:hoglin"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:horse"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:husk"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:illusioner"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:llama"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:magma_cube"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:mooshroom"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:mule"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:ocelot"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:panda"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:parrot"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:phantom"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:pig"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:piglin"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:piglin_brute"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:pillager"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:polar_bear"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:pufferfish"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:rabbit"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:ravager"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:salmon"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:sheep"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:shulker"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:silverfish"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:skeleton"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:skeleton_horse"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:slime"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:spider"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:squid"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:stray"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:strider"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:trader_llama"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:tropical_fish"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:turtle"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:vex"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:vindicator"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:wandering_trader"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:witch"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:wither"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:wither_skeleton"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:wolf"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:zoglin"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:zombie"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:zombie_horse"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:zombie_villager"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "minecraft:zombified_piglin"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "quark:crab"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "quark:forgotten"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "quark:foxhound"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "quark:frog"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "quark:shiba"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "quark:stoneling"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "quark:toretoise"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "quark:wraith"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "supplementaries:red_merchant"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "tconstruct:earth_slime"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "tconstruct:ender_slime"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "tconstruct:sky_slime"
+    },
+    {
+      "type": "bongo.entity",
+      "entity": "tconstruct:terracube"
+    }
+  ]
+}
